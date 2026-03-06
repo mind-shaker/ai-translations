@@ -1,0 +1,1518 @@
+{
+  "source_srt": "how_fixed_en.srt",
+  "total_segments": 168,
+  "segments": [
+    {
+      "index": 1,
+      "start": "00:00:00,000",
+      "end": "00:00:06,000",
+      "start_seconds": 0.0,
+      "end_seconds": 6.0,
+      "text": "Today I'll show you how ChatGPT can be turned into real learning tools, not just a translator.",
+      "audio_path": "audio/how_fixed_en_001.wav"
+    },
+    {
+      "index": 2,
+      "start": "00:00:06,000",
+      "end": "00:00:15,000",
+      "start_seconds": 6.0,
+      "end_seconds": 15.0,
+      "text": "And today I'll speak not in general terms, but will use specific prompts and queries that you'll also be able to reproduce.",
+      "audio_path": "audio/how_fixed_en_002.wav"
+    },
+    {
+      "index": 3,
+      "start": "00:00:15,000",
+      "end": "00:00:21,000",
+      "start_seconds": 15.0,
+      "end_seconds": 21.0,
+      "text": "As an example, today I'll be showing everything at the A1 level, but this video is not only for beginners.",
+      "audio_path": "audio/how_fixed_en_003.wav"
+    },
+    {
+      "index": 4,
+      "start": "00:00:21,000",
+      "end": "00:00:26,000",
+      "start_seconds": 21.0,
+      "end_seconds": 26.0,
+      "text": "You'll be able to adapt all of this too, because we're going to build a real learning system.",
+      "audio_path": "audio/how_fixed_en_004.wav"
+    },
+    {
+      "index": 5,
+      "start": "00:00:26,000",
+      "end": "00:00:33,000",
+      "start_seconds": 26.0,
+      "end_seconds": 33.0,
+      "text": "And the ready-made prompts for your level you can find in the pinned comment under the link in my Telegram channel.",
+      "audio_path": "audio/how_fixed_en_005.wav"
+    },
+    {
+      "index": 6,
+      "start": "00:00:33,000",
+      "end": "00:00:35,000",
+      "start_seconds": 33.0,
+      "end_seconds": 35.0,
+      "text": "And our first step is the foundation.",
+      "audio_path": "audio/how_fixed_en_006.wav"
+    },
+    {
+      "index": 7,
+      "start": "00:00:35,000",
+      "end": "00:00:39,000",
+      "start_seconds": 35.0,
+      "end_seconds": 39.0,
+      "text": "You need to know exactly what your current English level is.",
+      "audio_path": "audio/how_fixed_en_007.wav"
+    },
+    {
+      "index": 8,
+      "start": "00:00:39,000",
+      "end": "00:00:43,000",
+      "start_seconds": 39.0,
+      "end_seconds": 43.0,
+      "text": "It's not okay to write that you're somewhere between A2 or B1.",
+      "audio_path": "audio/how_fixed_en_008.wav"
+    },
+    {
+      "index": 9,
+      "start": "00:00:43,000",
+      "end": "00:00:49,000",
+      "start_seconds": 43.0,
+      "end_seconds": 49.0,
+      "text": "You need to know your exact level, because otherwise ChatGPT won't be able to build a program specifically for you.",
+      "audio_path": "audio/how_fixed_en_009.wav"
+    },
+    {
+      "index": 10,
+      "start": "00:00:49,000",
+      "end": "00:00:53,000",
+      "start_seconds": 49.0,
+      "end_seconds": 53.0,
+      "text": "It'll be either too easy or too hard the other way around.",
+      "audio_path": "audio/how_fixed_en_010.wav"
+    },
+    {
+      "index": 11,
+      "start": "00:00:54,000",
+      "end": "00:01:01,000",
+      "start_seconds": 54.0,
+      "end_seconds": 61.0,
+      "text": "For this case I have a ready-made prompt for you that you can copy and paste into your chat.",
+      "audio_path": "audio/how_fixed_en_011.wav"
+    },
+    {
+      "index": 12,
+      "start": "00:01:01,000",
+      "end": "00:01:02,000",
+      "start_seconds": 61.0,
+      "end_seconds": 62.0,
+      "text": "Let me read it now.",
+      "audio_path": "audio/how_fixed_en_012.wav"
+    },
+    {
+      "index": 13,
+      "start": "00:01:02,000",
+      "end": "00:01:05,000",
+      "start_seconds": 62.0,
+      "end_seconds": 65.0,
+      "text": "You are an experienced English teacher.",
+      "audio_path": "audio/how_fixed_en_013.wav"
+    },
+    {
+      "index": 14,
+      "start": "00:01:05,000",
+      "end": "00:01:07,000",
+      "start_seconds": 65.0,
+      "end_seconds": 67.0,
+      "text": "Help me determine my English level.",
+      "audio_path": "audio/how_fixed_en_014.wav"
+    },
+    {
+      "index": 15,
+      "start": "00:01:07,000",
+      "end": "00:01:10,000",
+      "start_seconds": 67.0,
+      "end_seconds": 70.0,
+      "text": "Create a series of tasks that test.",
+      "audio_path": "audio/how_fixed_en_015.wav"
+    },
+    {
+      "index": 16,
+      "start": "00:01:10,000",
+      "end": "00:01:13,000",
+      "start_seconds": 70.0,
+      "end_seconds": 73.0,
+      "text": "Vocabulary, grammar, reading comprehension, speaking.",
+      "audio_path": "audio/how_fixed_en_016.wav"
+    },
+    {
+      "index": 17,
+      "start": "00:01:13,000",
+      "end": "00:01:16,000",
+      "start_seconds": 73.0,
+      "end_seconds": 76.0,
+      "text": "Go step by step, gradually increasing the difficulty.",
+      "audio_path": "audio/how_fixed_en_017.wav"
+    },
+    {
+      "index": 18,
+      "start": "00:01:16,000",
+      "end": "00:01:19,000",
+      "start_seconds": 76.0,
+      "end_seconds": 79.0,
+      "text": "After my answers explain what it means for my level.",
+      "audio_path": "audio/how_fixed_en_018.wav"
+    },
+    {
+      "index": 19,
+      "start": "00:01:19,000",
+      "end": "00:01:21,000",
+      "start_seconds": 79.0,
+      "end_seconds": 81.0,
+      "text": "And tell me what it is.",
+      "audio_path": "audio/how_fixed_en_019.wav"
+    },
+    {
+      "index": 20,
+      "start": "00:01:21,000",
+      "end": "00:01:27,000",
+      "start_seconds": 81.0,
+      "end_seconds": 87.0,
+      "text": "And in 20-30 minutes you'll have a real understanding of where you are now and where you need to go next.",
+      "audio_path": "audio/how_fixed_en_020.wav"
+    },
+    {
+      "index": 21,
+      "start": "00:01:27,000",
+      "end": "00:01:36,000",
+      "start_seconds": 87.0,
+      "end_seconds": 96.0,
+      "text": "And here's another critically important point — a mistake I see all the time: people open too many chats and try to learn in all of them.",
+      "audio_path": "audio/how_fixed_en_021.wav"
+    },
+    {
+      "index": 22,
+      "start": "00:01:36,000",
+      "end": "00:01:42,000",
+      "start_seconds": 96.0,
+      "end_seconds": 102.0,
+      "text": "But it's very important to open only one chat and learn specifically in that one.",
+      "audio_path": "audio/how_fixed_en_022.wav"
+    },
+    {
+      "index": 23,
+      "start": "00:01:42,000",
+      "end": "00:01:46,000",
+      "start_seconds": 102.0,
+      "end_seconds": 106.0,
+      "text": "Because then that chat remembers everything about you.",
+      "audio_path": "audio/how_fixed_en_023.wav"
+    },
+    {
+      "index": 24,
+      "start": "00:01:46,000",
+      "end": "00:01:54,000",
+      "start_seconds": 106.0,
+      "end_seconds": 114.0,
+      "text": "What mistakes you made, what you said incorrectly, what you've already covered, what needs to be reinforced again.",
+      "audio_path": "audio/how_fixed_en_024.wav"
+    },
+    {
+      "index": 25,
+      "start": "00:01:54,000",
+      "end": "00:02:01,000",
+      "start_seconds": 114.0,
+      "end_seconds": 121.0,
+      "text": "And when you open new chats, that memory doesn't carry over and you basically start from scratch every time.",
+      "audio_path": "audio/how_fixed_en_025.wav"
+    },
+    {
+      "index": 26,
+      "start": "00:02:01,000",
+      "end": "00:02:06,000",
+      "start_seconds": 121.0,
+      "end_seconds": 126.0,
+      "text": "So we stick to one chat, one teacher.",
+      "audio_path": "audio/how_fixed_en_026.wav"
+    },
+    {
+      "index": 27,
+      "start": "00:02:06,000",
+      "end": "00:02:08,000",
+      "start_seconds": 126.0,
+      "end_seconds": 128.0,
+      "text": "Alright, now our second step.",
+      "audio_path": "audio/how_fixed_en_027.wav"
+    },
+    {
+      "index": 28,
+      "start": "00:02:08,000",
+      "end": "00:02:13,000",
+      "start_seconds": 128.0,
+      "end_seconds": 133.0,
+      "text": "Now we're going to create the teacher who will be teaching us.",
+      "audio_path": "audio/how_fixed_en_028.wav"
+    },
+    {
+      "index": 29,
+      "start": "00:02:13,000",
+      "end": "00:02:17,000",
+      "start_seconds": 133.0,
+      "end_seconds": 137.0,
+      "text": "Let's read through this prompt, but you'll be able to copy it later.",
+      "audio_path": "audio/how_fixed_en_029.wav"
+    },
+    {
+      "index": 30,
+      "start": "00:02:17,000",
+      "end": "00:02:20,000",
+      "start_seconds": 137.0,
+      "end_seconds": 140.0,
+      "text": "I am learning English, my level is A1.",
+      "audio_path": "audio/how_fixed_en_030.wav"
+    },
+    {
+      "index": 31,
+      "start": "00:02:20,000",
+      "end": "00:02:22,000",
+      "start_seconds": 140.0,
+      "end_seconds": 142.0,
+      "text": "Here you can insert your own level.",
+      "audio_path": "audio/how_fixed_en_031.wav"
+    },
+    {
+      "index": 32,
+      "start": "00:02:22,000",
+      "end": "00:02:24,000",
+      "start_seconds": 142.0,
+      "end_seconds": 144.0,
+      "text": "Teach me like a patient teacher.",
+      "audio_path": "audio/how_fixed_en_032.wav"
+    },
+    {
+      "index": 33,
+      "start": "00:02:24,000",
+      "end": "00:02:30,000",
+      "start_seconds": 144.0,
+      "end_seconds": 150.0,
+      "text": "From simple to complex, in small steps, with constant repetition, without overload.",
+      "audio_path": "audio/how_fixed_en_033.wav"
+    },
+    {
+      "index": 34,
+      "start": "00:02:30,000",
+      "end": "00:02:32,000",
+      "start_seconds": 150.0,
+      "end_seconds": 152.0,
+      "text": "Work with me in one chat.",
+      "audio_path": "audio/how_fixed_en_034.wav"
+    },
+    {
+      "index": 35,
+      "start": "00:02:32,000",
+      "end": "00:02:34,000",
+      "start_seconds": 152.0,
+      "end_seconds": 154.0,
+      "text": "Remember my typical mistakes.",
+      "audio_path": "audio/how_fixed_en_035.wav"
+    },
+    {
+      "index": 36,
+      "start": "00:02:34,000",
+      "end": "00:02:36,000",
+      "start_seconds": 154.0,
+      "end_seconds": 156.0,
+      "text": "Come back to them later.",
+      "audio_path": "audio/how_fixed_en_036.wav"
+    },
+    {
+      "index": 37,
+      "start": "00:02:36,000",
+      "end": "00:02:43,000",
+      "start_seconds": 156.0,
+      "end_seconds": 163.0,
+      "text": "First explain, then give practice, then repeat, speak simply and clearly.",
+      "audio_path": "audio/how_fixed_en_037.wav"
+    },
+    {
+      "index": 38,
+      "start": "00:02:43,000",
+      "end": "00:02:46,000",
+      "start_seconds": 163.0,
+      "end_seconds": 166.0,
+      "text": "And with this step you're doing something really important.",
+      "audio_path": "audio/how_fixed_en_038.wav"
+    },
+    {
+      "index": 39,
+      "start": "00:02:46,000",
+      "end": "00:02:54,000",
+      "start_seconds": 166.0,
+      "end_seconds": 174.0,
+      "text": "You're not just opening another random chat, you're creating your own permanent, stable teacher.",
+      "audio_path": "audio/how_fixed_en_039.wav"
+    },
+    {
+      "index": 40,
+      "start": "00:02:54,000",
+      "end": "00:03:02,000",
+      "start_seconds": 174.0,
+      "end_seconds": 182.0,
+      "text": "So now you've created your teacher, you've given them a goal — let's move on to practice.",
+      "audio_path": "audio/how_fixed_en_040.wav"
+    },
+    {
+      "index": 41,
+      "start": "00:03:02,000",
+      "end": "00:03:08,000",
+      "start_seconds": 182.0,
+      "end_seconds": 188.0,
+      "text": "The next step is to get some ready-made phrases from them that match our level.",
+      "audio_path": "audio/how_fixed_en_041.wav"
+    },
+    {
+      "index": 42,
+      "start": "00:03:08,000",
+      "end": "00:03:10,000",
+      "start_seconds": 188.0,
+      "end_seconds": 190.0,
+      "text": "What do we write to them?",
+      "audio_path": "audio/how_fixed_en_042.wav"
+    },
+    {
+      "index": 43,
+      "start": "00:03:10,000",
+      "end": "00:03:17,000",
+      "start_seconds": 190.0,
+      "end_seconds": 197.0,
+      "text": "Give me 10 very simple English phrases for the A1 level on the topic of introductions without grammar explanations.",
+      "audio_path": "audio/how_fixed_en_043.wav"
+    },
+    {
+      "index": 44,
+      "start": "00:03:17,000",
+      "end": "00:03:25,000",
+      "start_seconds": 197.0,
+      "end_seconds": 205.0,
+      "text": "Look, here you can change both the level and the topic you want to get the phrases on, but overall I think the logic is clear.",
+      "audio_path": "audio/how_fixed_en_044.wav"
+    },
+    {
+      "index": 45,
+      "start": "00:03:25,000",
+      "end": "00:03:31,000",
+      "start_seconds": 205.0,
+      "end_seconds": 211.0,
+      "text": "And look at what it will send us — I'll add a screenshot here.",
+      "audio_path": "audio/how_fixed_en_045.wav"
+    },
+    {
+      "index": 46,
+      "start": "00:03:31,000",
+      "end": "00:03:35,000",
+      "start_seconds": 211.0,
+      "end_seconds": 215.0,
+      "text": "Here it goes, sending right away.",
+      "audio_path": "audio/how_fixed_en_046.wav"
+    },
+    {
+      "index": 47,
+      "start": "00:03:35,000",
+      "end": "00:03:39,000",
+      "start_seconds": 215.0,
+      "end_seconds": 219.0,
+      "text": "Great, here are 10 very simple phrases for the A1 level on the topic of introductions.",
+      "audio_path": "audio/how_fixed_en_047.wav"
+    },
+    {
+      "index": 48,
+      "start": "00:03:39,000",
+      "end": "00:03:46,000",
+      "start_seconds": 219.0,
+      "end_seconds": 226.0,
+      "text": "Basically it did its job — it sent you not just words but complete ready-made phrases.",
+      "audio_path": "audio/how_fixed_en_048.wav"
+    },
+    {
+      "index": 49,
+      "start": "00:03:46,000",
+      "end": "00:03:54,000",
+      "start_seconds": 226.0,
+      "end_seconds": 234.0,
+      "text": "And I think you should already know that you really need to learn a language not with individual words but with ready-made language chunks.",
+      "audio_path": "audio/how_fixed_en_049.wav"
+    },
+    {
+      "index": 50,
+      "start": "00:03:54,000",
+      "end": "00:03:58,000",
+      "start_seconds": 234.0,
+      "end_seconds": 238.0,
+      "text": "Our next stage will be listening and a prompt for listening.",
+      "audio_path": "audio/how_fixed_en_050.wav"
+    },
+    {
+      "index": 51,
+      "start": "00:03:58,000",
+      "end": "00:04:02,000",
+      "start_seconds": 238.0,
+      "end_seconds": 242.0,
+      "text": "Read these phrases out loud slowly.",
+      "audio_path": "audio/how_fixed_en_051.wav"
+    },
+    {
+      "index": 52,
+      "start": "00:04:02,000",
+      "end": "00:04:04,000",
+      "start_seconds": 242.0,
+      "end_seconds": 244.0,
+      "text": "And now I'll show you how this works.",
+      "audio_path": "audio/how_fixed_en_052.wav"
+    },
+    {
+      "index": 53,
+      "start": "00:04:04,000",
+      "end": "00:04:10,000",
+      "start_seconds": 244.0,
+      "end_seconds": 250.0,
+      "text": "Of course. I'll now read them clearly and slowly so it's easy for you to repeat.",
+      "audio_path": "audio/how_fixed_en_053.wav"
+    },
+    {
+      "index": 54,
+      "start": "00:04:10,000",
+      "end": "00:04:12,000",
+      "start_seconds": 250.0,
+      "end_seconds": 252.0,
+      "text": "Ready? Let's go.",
+      "audio_path": "audio/how_fixed_en_054.wav"
+    },
+    {
+      "index": 55,
+      "start": "00:04:12,000",
+      "end": "00:04:14,000",
+      "start_seconds": 252.0,
+      "end_seconds": 254.0,
+      "text": "First. Hello.",
+      "audio_path": "audio/how_fixed_en_055.wav"
+    },
+    {
+      "index": 56,
+      "start": "00:04:14,000",
+      "end": "00:04:16,000",
+      "start_seconds": 254.0,
+      "end_seconds": 256.0,
+      "text": "Second. Hi.",
+      "audio_path": "audio/how_fixed_en_056.wav"
+    },
+    {
+      "index": 57,
+      "start": "00:04:16,000",
+      "end": "00:04:18,000",
+      "start_seconds": 256.0,
+      "end_seconds": 258.0,
+      "text": "Third. My name is Anna.",
+      "audio_path": "audio/how_fixed_en_057.wav"
+    },
+    {
+      "index": 58,
+      "start": "00:04:18,000",
+      "end": "00:04:20,000",
+      "start_seconds": 258.0,
+      "end_seconds": 260.0,
+      "text": "Fourth. I am Anna.",
+      "audio_path": "audio/how_fixed_en_058.wav"
+    },
+    {
+      "index": 59,
+      "start": "00:04:20,000",
+      "end": "00:04:22,000",
+      "start_seconds": 260.0,
+      "end_seconds": 262.0,
+      "text": "Fifth. What is your name?",
+      "audio_path": "audio/how_fixed_en_059.wav"
+    },
+    {
+      "index": 60,
+      "start": "00:04:22,000",
+      "end": "00:04:24,000",
+      "start_seconds": 262.0,
+      "end_seconds": 264.0,
+      "text": "Sixth. Nice to meet you.",
+      "audio_path": "audio/how_fixed_en_060.wav"
+    },
+    {
+      "index": 61,
+      "start": "00:04:24,000",
+      "end": "00:04:26,000",
+      "start_seconds": 264.0,
+      "end_seconds": 266.0,
+      "text": "Seventh. I am from Ukraine.",
+      "audio_path": "audio/how_fixed_en_061.wav"
+    },
+    {
+      "index": 62,
+      "start": "00:04:26,000",
+      "end": "00:04:28,000",
+      "start_seconds": 266.0,
+      "end_seconds": 268.0,
+      "text": "Eighth. Where are you from?",
+      "audio_path": "audio/how_fixed_en_062.wav"
+    },
+    {
+      "index": 63,
+      "start": "00:04:28,000",
+      "end": "00:04:30,000",
+      "start_seconds": 268.0,
+      "end_seconds": 270.0,
+      "text": "Ninth. How are you?",
+      "audio_path": "audio/how_fixed_en_063.wav"
+    },
+    {
+      "index": 64,
+      "start": "00:04:30,000",
+      "end": "00:04:32,000",
+      "start_seconds": 270.0,
+      "end_seconds": 272.0,
+      "text": "Tenth. I am fine.",
+      "audio_path": "audio/how_fixed_en_064.wav"
+    },
+    {
+      "index": 65,
+      "start": "00:04:32,000",
+      "end": "00:04:34,000",
+      "start_seconds": 272.0,
+      "end_seconds": 274.0,
+      "text": "I'll repeat as many times as needed.",
+      "audio_path": "audio/how_fixed_en_065.wav"
+    },
+    {
+      "index": 66,
+      "start": "00:04:34,000",
+      "end": "00:04:36,000",
+      "start_seconds": 274.0,
+      "end_seconds": 276.0,
+      "text": "If needed, tell it again.",
+      "audio_path": "audio/how_fixed_en_066.wav"
+    },
+    {
+      "index": 67,
+      "start": "00:04:36,000",
+      "end": "00:04:38,000",
+      "start_seconds": 276.0,
+      "end_seconds": 278.0,
+      "text": "Just like that.",
+      "audio_path": "audio/how_fixed_en_067.wav"
+    },
+    {
+      "index": 68,
+      "start": "00:04:38,000",
+      "end": "00:04:41,000",
+      "start_seconds": 278.0,
+      "end_seconds": 281.0,
+      "text": "Look at what's important here. You can listen to this just once.",
+      "audio_path": "audio/how_fixed_en_068.wav"
+    },
+    {
+      "index": 69,
+      "start": "00:04:41,000",
+      "end": "00:04:44,000",
+      "start_seconds": 281.0,
+      "end_seconds": 284.0,
+      "text": "I really recommend listening to it more than once.",
+      "audio_path": "audio/how_fixed_en_069.wav"
+    },
+    {
+      "index": 70,
+      "start": "00:04:44,000",
+      "end": "00:04:47,000",
+      "start_seconds": 284.0,
+      "end_seconds": 287.0,
+      "text": "Why? So that you'll be fixing it in your head.",
+      "audio_path": "audio/how_fixed_en_070.wav"
+    },
+    {
+      "index": 71,
+      "start": "00:04:47,000",
+      "end": "00:04:50,000",
+      "start_seconds": 287.0,
+      "end_seconds": 290.0,
+      "text": "Your brain will process it better.",
+      "audio_path": "audio/how_fixed_en_071.wav"
+    },
+    {
+      "index": 72,
+      "start": "00:04:50,000",
+      "end": "00:04:54,000",
+      "start_seconds": 290.0,
+      "end_seconds": 294.0,
+      "text": "And will later be able to recognize it in real language, in real life.",
+      "audio_path": "audio/how_fixed_en_072.wav"
+    },
+    {
+      "index": 73,
+      "start": "00:04:54,000",
+      "end": "00:05:00,000",
+      "start_seconds": 294.0,
+      "end_seconds": 300.0,
+      "text": "And will also later be able to suggest these phrases when you're speaking English yourself.",
+      "audio_path": "audio/how_fixed_en_073.wav"
+    },
+    {
+      "index": 74,
+      "start": "00:05:00,000",
+      "end": "00:05:02,000",
+      "start_seconds": 300.0,
+      "end_seconds": 302.0,
+      "text": "So listen as much as possible.",
+      "audio_path": "audio/how_fixed_en_074.wav"
+    },
+    {
+      "index": 75,
+      "start": "00:05:02,000",
+      "end": "00:05:09,000",
+      "start_seconds": 302.0,
+      "end_seconds": 309.0,
+      "text": "By the way, regarding how to listen to all this, I'll add a screenshot here right now.",
+      "audio_path": "audio/how_fixed_en_075.wav"
+    },
+    {
+      "index": 76,
+      "start": "00:05:09,000",
+      "end": "00:05:13,000",
+      "start_seconds": 309.0,
+      "end_seconds": 313.0,
+      "text": "So you need to press it to have what was written read aloud.",
+      "audio_path": "audio/how_fixed_en_076.wav"
+    },
+    {
+      "index": 77,
+      "start": "00:05:13,000",
+      "end": "00:05:16,000",
+      "start_seconds": 313.0,
+      "end_seconds": 316.0,
+      "text": "Our next step will be reading.",
+      "audio_path": "audio/how_fixed_en_077.wav"
+    },
+    {
+      "index": 78,
+      "start": "00:05:16,000",
+      "end": "00:05:22,000",
+      "start_seconds": 316.0,
+      "end_seconds": 322.0,
+      "text": "And not just any reading, but reading specifically what you've just been working with.",
+      "audio_path": "audio/how_fixed_en_078.wav"
+    },
+    {
+      "index": 79,
+      "start": "00:05:22,000",
+      "end": "00:05:33,000",
+      "start_seconds": 322.0,
+      "end_seconds": 333.0,
+      "text": "So we'll be polishing those phrases and expressions that you already read and heard just now, and what prompt we'll use for that.",
+      "audio_path": "audio/how_fixed_en_079.wav"
+    },
+    {
+      "index": 80,
+      "start": "00:05:33,000",
+      "end": "00:05:34,000",
+      "start_seconds": 333.0,
+      "end_seconds": 334.0,
+      "text": "Look.",
+      "audio_path": "audio/how_fixed_en_080.wav"
+    },
+    {
+      "index": 81,
+      "start": "00:05:34,000",
+      "end": "00:05:37,000",
+      "start_seconds": 334.0,
+      "end_seconds": 337.0,
+      "text": "Create a monologue story, a reading text.",
+      "audio_path": "audio/how_fixed_en_081.wav"
+    },
+    {
+      "index": 82,
+      "start": "00:05:37,000",
+      "end": "00:05:40,000",
+      "start_seconds": 337.0,
+      "end_seconds": 340.0,
+      "text": "Six sentences for the A1 level with these phrases.",
+      "audio_path": "audio/how_fixed_en_082.wav"
+    },
+    {
+      "index": 83,
+      "start": "00:05:40,000",
+      "end": "00:05:50,000",
+      "start_seconds": 340.0,
+      "end_seconds": 350.0,
+      "text": "It should sound like natural language, one paragraph, sentences logically connected, no lists and no separate phrases, so it can be said in one breath.",
+      "audio_path": "audio/how_fixed_en_083.wav"
+    },
+    {
+      "index": 84,
+      "start": "00:05:50,000",
+      "end": "00:05:54,000",
+      "start_seconds": 350.0,
+      "end_seconds": 354.0,
+      "text": "And now I'll show you what it created for me.",
+      "audio_path": "audio/how_fixed_en_084.wav"
+    },
+    {
+      "index": 85,
+      "start": "00:05:54,000",
+      "end": "00:05:57,000",
+      "start_seconds": 354.0,
+      "end_seconds": 357.0,
+      "text": "Here I'm adding a screenshot of its response.",
+      "audio_path": "audio/how_fixed_en_085.wav"
+    },
+    {
+      "index": 86,
+      "start": "00:05:57,000",
+      "end": "00:05:59,000",
+      "start_seconds": 357.0,
+      "end_seconds": 359.0,
+      "text": "And what to do with this.",
+      "audio_path": "audio/how_fixed_en_086.wav"
+    },
+    {
+      "index": 87,
+      "start": "00:05:59,000",
+      "end": "00:06:02,000",
+      "start_seconds": 359.0,
+      "end_seconds": 362.0,
+      "text": "You can read it out loud to yourself.",
+      "audio_path": "audio/how_fixed_en_087.wav"
+    },
+    {
+      "index": 88,
+      "start": "00:06:02,000",
+      "end": "00:06:04,000",
+      "start_seconds": 362.0,
+      "end_seconds": 364.0,
+      "text": "More than once if needed.",
+      "audio_path": "audio/how_fixed_en_088.wav"
+    },
+    {
+      "index": 89,
+      "start": "00:06:04,000",
+      "end": "00:06:10,000",
+      "start_seconds": 364.0,
+      "end_seconds": 370.0,
+      "text": "You can ask it to read it out loud again through that button I already showed you.",
+      "audio_path": "audio/how_fixed_en_089.wav"
+    },
+    {
+      "index": 90,
+      "start": "00:06:10,000",
+      "end": "00:06:17,000",
+      "start_seconds": 370.0,
+      "end_seconds": 377.0,
+      "text": "And another important thing here — your brain recognizes something it heard somewhere before and starts to recall it.",
+      "audio_path": "audio/how_fixed_en_090.wav"
+    },
+    {
+      "index": 91,
+      "start": "00:06:17,000",
+      "end": "00:06:20,000",
+      "start_seconds": 377.0,
+      "end_seconds": 380.0,
+      "text": "And in that moment you're really learning.",
+      "audio_path": "audio/how_fixed_en_091.wav"
+    },
+    {
+      "index": 92,
+      "start": "00:06:20,000",
+      "end": "00:06:24,000",
+      "start_seconds": 380.0,
+      "end_seconds": 384.0,
+      "text": "And now we're going to move on to grammar.",
+      "audio_path": "audio/how_fixed_en_092.wav"
+    },
+    {
+      "index": 93,
+      "start": "00:06:24,000",
+      "end": "00:06:28,000",
+      "start_seconds": 384.0,
+      "end_seconds": 388.0,
+      "text": "But I'm not going to ask it to write me the rules of usage now.",
+      "audio_path": "audio/how_fixed_en_093.wav"
+    },
+    {
+      "index": 94,
+      "start": "00:06:28,000",
+      "end": "00:06:31,000",
+      "start_seconds": 388.0,
+      "end_seconds": 391.0,
+      "text": "I'll ask it to simply explain this to me.",
+      "audio_path": "audio/how_fixed_en_094.wav"
+    },
+    {
+      "index": 95,
+      "start": "00:06:31,000",
+      "end": "00:06:34,000",
+      "start_seconds": 391.0,
+      "end_seconds": 394.0,
+      "text": "And look at what we can write to it.",
+      "audio_path": "audio/how_fixed_en_095.wav"
+    },
+    {
+      "index": 96,
+      "start": "00:06:43,000",
+      "end": "00:06:45,000",
+      "start_seconds": 403.0,
+      "end_seconds": 405.0,
+      "text": "Look at what it replies to me.",
+      "audio_path": "audio/how_fixed_en_096.wav"
+    },
+    {
+      "index": 97,
+      "start": "00:06:45,000",
+      "end": "00:06:48,000",
+      "start_seconds": 405.0,
+      "end_seconds": 408.0,
+      "text": "I am, я є — this is what you say about yourself.",
+      "audio_path": "audio/how_fixed_en_097.wav"
+    },
+    {
+      "index": 98,
+      "start": "00:06:48,000",
+      "end": "00:06:54,000",
+      "start_seconds": 408.0,
+      "end_seconds": 414.0,
+      "text": "When you want to say who you are, what you're like, how you feel, you start with I am.",
+      "audio_path": "audio/how_fixed_en_098.wav"
+    },
+    {
+      "index": 99,
+      "start": "00:06:54,000",
+      "end": "00:06:56,000",
+      "start_seconds": 414.0,
+      "end_seconds": 416.0,
+      "text": "And life examples follow.",
+      "audio_path": "audio/how_fixed_en_099.wav"
+    },
+    {
+      "index": 100,
+      "start": "00:06:56,000",
+      "end": "00:06:58,000",
+      "start_seconds": 416.0,
+      "end_seconds": 418.0,
+      "text": "In my opinion, the explanation is great.",
+      "audio_path": "audio/how_fixed_en_100.wav"
+    },
+    {
+      "index": 101,
+      "start": "00:06:58,000",
+      "end": "00:07:06,000",
+      "start_seconds": 418.0,
+      "end_seconds": 426.0,
+      "text": "There are no complex terms, just logically clear, and for beginners it's simply wonderful.",
+      "audio_path": "audio/how_fixed_en_101.wav"
+    },
+    {
+      "index": 102,
+      "start": "00:07:06,000",
+      "end": "00:07:11,000",
+      "start_seconds": 426.0,
+      "end_seconds": 431.0,
+      "text": "Of course, if it's a different level, it'll be a bit more complex.",
+      "audio_path": "audio/how_fixed_en_102.wav"
+    },
+    {
+      "index": 103,
+      "start": "00:07:11,000",
+      "end": "00:07:13,000",
+      "start_seconds": 431.0,
+      "end_seconds": 433.0,
+      "text": "In the prompts you'll see all of this.",
+      "audio_path": "audio/how_fixed_en_103.wav"
+    },
+    {
+      "index": 104,
+      "start": "00:07:13,000",
+      "end": "00:07:15,000",
+      "start_seconds": 433.0,
+      "end_seconds": 435.0,
+      "text": "But for now the logic is like this.",
+      "audio_path": "audio/how_fixed_en_104.wav"
+    },
+    {
+      "index": 105,
+      "start": "00:07:15,000",
+      "end": "00:07:17,000",
+      "start_seconds": 435.0,
+      "end_seconds": 437.0,
+      "text": "Well, and now comes my favorite stage.",
+      "audio_path": "audio/how_fixed_en_105.wav"
+    },
+    {
+      "index": 106,
+      "start": "00:07:17,000",
+      "end": "00:07:21,000",
+      "start_seconds": 437.0,
+      "end_seconds": 441.0,
+      "text": "The stage where we start talking with our chat.",
+      "audio_path": "audio/how_fixed_en_106.wav"
+    },
+    {
+      "index": 107,
+      "start": "00:07:21,000",
+      "end": "00:07:26,000",
+      "start_seconds": 441.0,
+      "end_seconds": 446.0,
+      "text": "Again, through this button here we need to switch to conversation mode with it.",
+      "audio_path": "audio/how_fixed_en_107.wav"
+    },
+    {
+      "index": 108,
+      "start": "00:07:26,000",
+      "end": "00:07:28,000",
+      "start_seconds": 446.0,
+      "end_seconds": 448.0,
+      "text": "And what do we say?",
+      "audio_path": "audio/how_fixed_en_108.wav"
+    },
+    {
+      "index": 109,
+      "start": "00:07:30,000",
+      "end": "00:07:36,000",
+      "start_seconds": 450.0,
+      "end_seconds": 456.0,
+      "text": "Let's now do a simple dialogue in English for the A1 level.",
+      "audio_path": "audio/how_fixed_en_109.wav"
+    },
+    {
+      "index": 110,
+      "start": "00:07:36,000",
+      "end": "00:07:40,000",
+      "start_seconds": 456.0,
+      "end_seconds": 460.0,
+      "text": "You are a new person to me and ask me simple questions one by one.",
+      "audio_path": "audio/how_fixed_en_110.wav"
+    },
+    {
+      "index": 111,
+      "start": "00:07:42,000",
+      "end": "00:07:44,000",
+      "start_seconds": 462.0,
+      "end_seconds": 464.0,
+      "text": "Of course, no problem.",
+      "audio_path": "audio/how_fixed_en_111.wav"
+    },
+    {
+      "index": 112,
+      "start": "00:07:44,000",
+      "end": "00:07:48,000",
+      "start_seconds": 464.0,
+      "end_seconds": 468.0,
+      "text": "Let's start a simple dialogue and I'll ask questions one by one.",
+      "audio_path": "audio/how_fixed_en_112.wav"
+    },
+    {
+      "index": 113,
+      "start": "00:07:48,000",
+      "end": "00:07:50,000",
+      "start_seconds": 468.0,
+      "end_seconds": 470.0,
+      "text": "First question.",
+      "audio_path": "audio/how_fixed_en_113.wav"
+    },
+    {
+      "index": 114,
+      "start": "00:07:50,000",
+      "end": "00:07:52,000",
+      "start_seconds": 470.0,
+      "end_seconds": 472.0,
+      "text": "What is your name?",
+      "audio_path": "audio/how_fixed_en_114.wav"
+    },
+    {
+      "index": 115,
+      "start": "00:08:01,000",
+      "end": "00:08:04,000",
+      "start_seconds": 481.0,
+      "end_seconds": 484.0,
+      "text": "I'm from Ukraine.",
+      "audio_path": "audio/how_fixed_en_115.wav"
+    },
+    {
+      "index": 116,
+      "start": "00:08:10,000",
+      "end": "00:08:14,000",
+      "start_seconds": 490.0,
+      "end_seconds": 494.0,
+      "text": "I love cooking and working out.",
+      "audio_path": "audio/how_fixed_en_116.wav"
+    },
+    {
+      "index": 117,
+      "start": "00:08:23,000",
+      "end": "00:08:28,000",
+      "start_seconds": 503.0,
+      "end_seconds": 508.0,
+      "text": "I think you understand that I'm currently learning English.",
+      "audio_path": "audio/how_fixed_en_117.wav"
+    },
+    {
+      "index": 118,
+      "start": "00:08:30,000",
+      "end": "00:08:32,000",
+      "start_seconds": 510.0,
+      "end_seconds": 512.0,
+      "text": "Of course.",
+      "audio_path": "audio/how_fixed_en_118.wav"
+    },
+    {
+      "index": 119,
+      "start": "00:08:32,000",
+      "end": "00:08:34,000",
+      "start_seconds": 512.0,
+      "end_seconds": 514.0,
+      "text": "I just wanted to see that you understand.",
+      "audio_path": "audio/how_fixed_en_119.wav"
+    },
+    {
+      "index": 120,
+      "start": "00:08:34,000",
+      "end": "00:08:36,000",
+      "start_seconds": 514.0,
+      "end_seconds": 516.0,
+      "text": "You're doing well.",
+      "audio_path": "audio/how_fixed_en_120.wav"
+    },
+    {
+      "index": 121,
+      "start": "00:09:01,000",
+      "end": "00:09:05,000",
+      "start_seconds": 541.0,
+      "end_seconds": 545.0,
+      "text": "When you answer, make use of it.",
+      "audio_path": "audio/how_fixed_en_121.wav"
+    },
+    {
+      "index": 122,
+      "start": "00:09:17,000",
+      "end": "00:09:23,000",
+      "start_seconds": 557.0,
+      "end_seconds": 563.0,
+      "text": "Help me write three simple sentences about myself in English for the A1 level.",
+      "audio_path": "audio/how_fixed_en_122.wav"
+    },
+    {
+      "index": 123,
+      "start": "00:09:23,000",
+      "end": "00:09:27,000",
+      "start_seconds": 563.0,
+      "end_seconds": 567.0,
+      "text": "Now I'll show you what it replied to me.",
+      "audio_path": "audio/how_fixed_en_123.wav"
+    },
+    {
+      "index": 124,
+      "start": "00:09:27,000",
+      "end": "00:09:29,000",
+      "start_seconds": 567.0,
+      "end_seconds": 569.0,
+      "text": "Adding it.",
+      "audio_path": "audio/how_fixed_en_124.wav"
+    },
+    {
+      "index": 125,
+      "start": "00:09:29,000",
+      "end": "00:09:33,000",
+      "start_seconds": 569.0,
+      "end_seconds": 573.0,
+      "text": "It has templates that I can use.",
+      "audio_path": "audio/how_fixed_en_125.wav"
+    },
+    {
+      "index": 126,
+      "start": "00:09:33,000",
+      "end": "00:09:37,000",
+      "start_seconds": 573.0,
+      "end_seconds": 577.0,
+      "text": "And then it says it's your turn, meaning you should write those three sentences to it.",
+      "audio_path": "audio/how_fixed_en_126.wav"
+    },
+    {
+      "index": 127,
+      "start": "00:09:37,000",
+      "end": "00:09:45,000",
+      "start_seconds": 577.0,
+      "end_seconds": 585.0,
+      "text": "In this case, when you write your sentences to it, it will correct you if something is wrong.",
+      "audio_path": "audio/how_fixed_en_127.wav"
+    },
+    {
+      "index": 128,
+      "start": "00:09:45,000",
+      "end": "00:09:49,000",
+      "start_seconds": 585.0,
+      "end_seconds": 589.0,
+      "text": "Or on the contrary praise you if you wrote everything correctly.",
+      "audio_path": "audio/how_fixed_en_128.wav"
+    },
+    {
+      "index": 129,
+      "start": "00:09:49,000",
+      "end": "00:09:51,000",
+      "start_seconds": 589.0,
+      "end_seconds": 591.0,
+      "text": "And now a very important point.",
+      "audio_path": "audio/how_fixed_en_129.wav"
+    },
+    {
+      "index": 130,
+      "start": "00:09:51,000",
+      "end": "00:09:55,000",
+      "start_seconds": 591.0,
+      "end_seconds": 595.0,
+      "text": "After each session you need to track your progress.",
+      "audio_path": "audio/how_fixed_en_130.wav"
+    },
+    {
+      "index": 131,
+      "start": "00:09:55,000",
+      "end": "00:10:00,000",
+      "start_seconds": 595.0,
+      "end_seconds": 600.0,
+      "text": "You need to give this machine a prompt as well.",
+      "audio_path": "audio/how_fixed_en_131.wav"
+    },
+    {
+      "index": 132,
+      "start": "00:10:00,000",
+      "end": "00:10:08,000",
+      "start_seconds": 600.0,
+      "end_seconds": 608.0,
+      "text": "Make a short summary of the lesson — what we covered, what mistakes keep repeating, to review next time.",
+      "audio_path": "audio/how_fixed_en_132.wav"
+    },
+    {
+      "index": 133,
+      "start": "00:10:08,000",
+      "end": "00:10:10,000",
+      "start_seconds": 608.0,
+      "end_seconds": 610.0,
+      "text": "No more than 100 words.",
+      "audio_path": "audio/how_fixed_en_133.wav"
+    },
+    {
+      "index": 134,
+      "start": "00:10:10,000",
+      "end": "00:10:24,000",
+      "start_seconds": 610.0,
+      "end_seconds": 624.0,
+      "text": "Look, you can paste all of this both at the end of this lesson and at the beginning of the next one, so you don't forget what you've already done and can pay attention to what you need to work on more.",
+      "audio_path": "audio/how_fixed_en_134.wav"
+    },
+    {
+      "index": 135,
+      "start": "00:10:24,000",
+      "end": "00:10:32,000",
+      "start_seconds": 624.0,
+      "end_seconds": 632.0,
+      "text": "And now there'll be a very logical question: you've practiced, what do I do next, how do I do all this on my own?",
+      "audio_path": "audio/how_fixed_en_135.wav"
+    },
+    {
+      "index": 136,
+      "start": "00:10:32,000",
+      "end": "00:10:38,000",
+      "start_seconds": 632.0,
+      "end_seconds": 638.0,
+      "text": "And I'll tell you — you don't need to reinvent the wheel because I've already done it for you.",
+      "audio_path": "audio/how_fixed_en_136.wav"
+    },
+    {
+      "index": 137,
+      "start": "00:10:38,000",
+      "end": "00:10:44,000",
+      "start_seconds": 638.0,
+      "end_seconds": 644.0,
+      "text": "You just need to copy this prompt and follow the roadmap we've already created.",
+      "audio_path": "audio/how_fixed_en_137.wav"
+    },
+    {
+      "index": 138,
+      "start": "00:10:44,000",
+      "end": "00:10:46,000",
+      "start_seconds": 644.0,
+      "end_seconds": 646.0,
+      "text": "Look at what the prompt is.",
+      "audio_path": "audio/how_fixed_en_138.wav"
+    },
+    {
+      "index": 139,
+      "start": "00:10:46,000",
+      "end": "00:10:50,000",
+      "start_seconds": 646.0,
+      "end_seconds": 650.0,
+      "text": "Conduct a daily English lesson for the A1 level.",
+      "audio_path": "audio/how_fixed_en_139.wav"
+    },
+    {
+      "index": 140,
+      "start": "00:10:50,000",
+      "end": "00:10:52,000",
+      "start_seconds": 650.0,
+      "end_seconds": 652.0,
+      "text": "One lesson, one day.",
+      "audio_path": "audio/how_fixed_en_140.wav"
+    },
+    {
+      "index": 141,
+      "start": "00:10:52,000",
+      "end": "00:10:54,000",
+      "start_seconds": 652.0,
+      "end_seconds": 654.0,
+      "text": "Work step by step.",
+      "audio_path": "audio/how_fixed_en_141.wav"
+    },
+    {
+      "index": 142,
+      "start": "00:10:54,000",
+      "end": "00:10:56,000",
+      "start_seconds": 654.0,
+      "end_seconds": 656.0,
+      "text": "Two to three minutes.",
+      "audio_path": "audio/how_fixed_en_142.wav"
+    },
+    {
+      "index": 143,
+      "start": "00:10:56,000",
+      "end": "00:11:00,000",
+      "start_seconds": 656.0,
+      "end_seconds": 660.0,
+      "text": "In repetition use the same words and structures as before.",
+      "audio_path": "audio/how_fixed_en_143.wav"
+    },
+    {
+      "index": 144,
+      "start": "00:11:00,000",
+      "end": "00:11:04,000",
+      "start_seconds": 660.0,
+      "end_seconds": 664.0,
+      "text": "After each step pause and wait for my next.",
+      "audio_path": "audio/how_fixed_en_144.wav"
+    },
+    {
+      "index": 145,
+      "start": "00:11:04,000",
+      "end": "00:11:06,000",
+      "start_seconds": 664.0,
+      "end_seconds": 666.0,
+      "text": "Lesson structure. Short review.",
+      "audio_path": "audio/how_fixed_en_145.wav"
+    },
+    {
+      "index": 146,
+      "start": "00:11:06,000",
+      "end": "00:11:08,000",
+      "start_seconds": 666.0,
+      "end_seconds": 668.0,
+      "text": "Short explanation of a new topic.",
+      "audio_path": "audio/how_fixed_en_146.wav"
+    },
+    {
+      "index": 147,
+      "start": "00:11:08,000",
+      "end": "00:11:10,000",
+      "start_seconds": 668.0,
+      "end_seconds": 670.0,
+      "text": "Eight to ten simple phrases.",
+      "audio_path": "audio/how_fixed_en_147.wav"
+    },
+    {
+      "index": 148,
+      "start": "00:11:10,000",
+      "end": "00:11:12,000",
+      "start_seconds": 670.0,
+      "end_seconds": 672.0,
+      "text": "Read them out loud.",
+      "audio_path": "audio/how_fixed_en_148.wav"
+    },
+    {
+      "index": 149,
+      "start": "00:11:12,000",
+      "end": "00:11:14,000",
+      "start_seconds": 672.0,
+      "end_seconds": 674.0,
+      "text": "Short connected text.",
+      "audio_path": "audio/how_fixed_en_149.wav"
+    },
+    {
+      "index": 150,
+      "start": "00:11:14,000",
+      "end": "00:11:16,000",
+      "start_seconds": 674.0,
+      "end_seconds": 676.0,
+      "text": "Simple explanation of the meaning of structures.",
+      "audio_path": "audio/how_fixed_en_150.wav"
+    },
+    {
+      "index": 151,
+      "start": "00:11:16,000",
+      "end": "00:11:18,000",
+      "start_seconds": 676.0,
+      "end_seconds": 678.0,
+      "text": "Short dialogue.",
+      "audio_path": "audio/how_fixed_en_151.wav"
+    },
+    {
+      "index": 152,
+      "start": "00:11:18,000",
+      "end": "00:11:20,000",
+      "start_seconds": 678.0,
+      "end_seconds": 680.0,
+      "text": "Three sentences of writing.",
+      "audio_path": "audio/how_fixed_en_152.wav"
+    },
+    {
+      "index": 153,
+      "start": "00:11:20,000",
+      "end": "00:11:22,000",
+      "start_seconds": 680.0,
+      "end_seconds": 682.0,
+      "text": "Speak simply and don't overload.",
+      "audio_path": "audio/how_fixed_en_153.wav"
+    },
+    {
+      "index": 154,
+      "start": "00:11:22,000",
+      "end": "00:11:24,000",
+      "start_seconds": 682.0,
+      "end_seconds": 684.0,
+      "text": "And that's it.",
+      "audio_path": "audio/how_fixed_en_154.wav"
+    },
+    {
+      "index": 155,
+      "start": "00:11:24,000",
+      "end": "00:11:28,000",
+      "start_seconds": 684.0,
+      "end_seconds": 688.0,
+      "text": "ChatGPT will guide you further like a real teacher.",
+      "audio_path": "audio/how_fixed_en_155.wav"
+    },
+    {
+      "index": 156,
+      "start": "00:11:28,000",
+      "end": "00:11:30,000",
+      "start_seconds": 688.0,
+      "end_seconds": 690.0,
+      "text": "It's just magic, I think.",
+      "audio_path": "audio/how_fixed_en_156.wav"
+    },
+    {
+      "index": 157,
+      "start": "00:11:30,000",
+      "end": "00:11:32,000",
+      "start_seconds": 690.0,
+      "end_seconds": 692.0,
+      "text": "And regarding these prompts.",
+      "audio_path": "audio/how_fixed_en_157.wav"
+    },
+    {
+      "index": 158,
+      "start": "00:11:32,000",
+      "end": "00:11:36,000",
+      "start_seconds": 692.0,
+      "end_seconds": 696.0,
+      "text": "They are written for a general learning system.",
+      "audio_path": "audio/how_fixed_en_158.wav"
+    },
+    {
+      "index": 159,
+      "start": "00:11:36,000",
+      "end": "00:11:44,000",
+      "start_seconds": 696.0,
+      "end_seconds": 704.0,
+      "text": "If you need a specific topic or want to look at a specific grammar structure and so on, you can of course adjust them.",
+      "audio_path": "audio/how_fixed_en_159.wav"
+    },
+    {
+      "index": 160,
+      "start": "00:11:44,000",
+      "end": "00:11:46,000",
+      "start_seconds": 704.0,
+      "end_seconds": 706.0,
+      "text": "So adapt them.",
+      "audio_path": "audio/how_fixed_en_160.wav"
+    },
+    {
+      "index": 161,
+      "start": "00:11:46,000",
+      "end": "00:11:48,000",
+      "start_seconds": 706.0,
+      "end_seconds": 708.0,
+      "text": "ChatGPT is not a tutor.",
+      "audio_path": "audio/how_fixed_en_161.wav"
+    },
+    {
+      "index": 162,
+      "start": "00:11:48,000",
+      "end": "00:11:56,000",
+      "start_seconds": 708.0,
+      "end_seconds": 716.0,
+      "text": "But with a well-built system you can turn it into a truly working practice tool.",
+      "audio_path": "audio/how_fixed_en_162.wav"
+    },
+    {
+      "index": 163,
+      "start": "00:11:56,000",
+      "end": "00:12:06,000",
+      "start_seconds": 716.0,
+      "end_seconds": 726.0,
+      "text": "So the main thing here is to create this very system so that it's not chaotic but structured, the way we broke it down today.",
+      "audio_path": "audio/how_fixed_en_163.wav"
+    },
+    {
+      "index": 164,
+      "start": "00:12:06,000",
+      "end": "00:12:08,000",
+      "start_seconds": 726.0,
+      "end_seconds": 728.0,
+      "text": "Because that's exactly how our brain will absorb everything best.",
+      "audio_path": "audio/how_fixed_en_164.wav"
+    },
+    {
+      "index": 165,
+      "start": "00:12:08,000",
+      "end": "00:12:14,000",
+      "start_seconds": 728.0,
+      "end_seconds": 734.0,
+      "text": "So if you found this useful, interesting, and enjoyable — I'd really appreciate your support.",
+      "audio_path": "audio/how_fixed_en_165.wav"
+    },
+    {
+      "index": 166,
+      "start": "00:12:14,000",
+      "end": "00:12:18,000",
+      "start_seconds": 734.0,
+      "end_seconds": 738.0,
+      "text": "Like, comment, subscribe.",
+      "audio_path": "audio/how_fixed_en_166.wav"
+    },
+    {
+      "index": 167,
+      "start": "00:12:18,000",
+      "end": "00:12:32,000",
+      "start_seconds": 738.0,
+      "end_seconds": 752.0,
+      "text": "And I want to remind you that below this video and in the pinned comment you'll find a link to my Telegram channel where all the prompts for every level will be collected.",
+      "audio_path": "audio/how_fixed_en_167.wav"
+    },
+    {
+      "index": 168,
+      "start": "00:12:32,000",
+      "end": "00:12:34,000",
+      "start_seconds": 752.0,
+      "end_seconds": 754.0,
+      "text": "Bye!",
+      "audio_path": "audio/how_fixed_en_168.wav"
+    }
+  ]
+}

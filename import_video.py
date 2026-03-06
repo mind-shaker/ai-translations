@@ -25,38 +25,40 @@ imp.load_dynamic = load_dynamic
 sys.modules['imp'] = imp
 
 def main():
+    if len(sys.argv) < 2:
+        print("Usage: python3 import_video.py <video_path>")
+        sys.exit(1)
+        
+    video_path = os.path.abspath(sys.argv[1])
+    video_name = os.path.basename(video_path)
+    
     try:
         import DaVinciResolveScript as dvr_script
         resolve = dvr_script.scriptapp("Resolve")
         if not resolve:
-            print("Error: Could not connect to DaVinci Resolve. Is it running?")
+            print("Error: Could not connect to DaVinci Resolve.")
             sys.exit(1)
             
         project_manager = resolve.GetProjectManager()
-        project_name = "translate"
+        project = project_manager.GetCurrentProject()
         
-        # Load project
-        project = project_manager.LoadProject(project_name)
         if not project:
-            print(f"Error: Project '{project_name}' not found. Run Step 1 first.")
+            print("Error: No active project found. Run Step 1 first.")
             sys.exit(1)
             
         media_pool = project.GetMediaPool()
-        video_path = "/Users/olegdanilchenko1/my_projects/kokoro_tts/how.mp4"
+        root_folder = media_pool.GetRootFolder()
         
-        if not os.path.exists(video_path):
-            print(f"Error: Video file not found at {video_path}")
-            sys.exit(1)
-            
+        # Import Video
         print(f"Importing video: {video_path}")
-        imported_clips = media_pool.ImportMedia([video_path])
-        if not imported_clips:
-            print("Error: Failed to import video clip into media pool.")
+        media_items = media_pool.ImportMedia([video_path])
+        if not media_items:
+            print(f"Error: Failed to import video '{video_path}'. Check path.")
             sys.exit(1)
             
-        video_clip = imported_clips[0]
+        video_clip = media_items[0]
         
-        # Create timeline based on the video clip
+        # Create Timeline
         timeline_name = "Main Timeline"
         print(f"Creating timeline '{timeline_name}' from video clip...")
         timeline = media_pool.CreateTimelineFromClips(timeline_name, [video_clip])

@@ -26,16 +26,23 @@ imp.load_dynamic = load_dynamic
 sys.modules['imp'] = imp
 
 def main():
+    if len(sys.argv) < 3:
+        print("Usage: python3 assemble_timeline.py <video_path> <metadata.json>")
+        sys.exit(1)
+
+    video_filename = sys.argv[1]  # e.g. how.mp4
+    input_path = sys.argv[2]      # e.g. how_fixed_en_audio.json
+
     try:
         import DaVinciResolveScript as dvr_script
         resolve = dvr_script.scriptapp("Resolve")
         if not resolve:
             print("Error: Could not connect to DaVinci Resolve.")
             sys.exit(1)
-            
+
         project_manager = resolve.GetProjectManager()
         project = project_manager.GetCurrentProject()
-        
+
         project_name = "translate"
         if not project or project.GetName() != project_name:
             print(f"Loading project '{project_name}'...")
@@ -43,19 +50,19 @@ def main():
             if not project:
                 print(f"Error: Project '{project_name}' not found. Run Step 1 first.")
                 sys.exit(1)
-            
+
         timeline = project.GetCurrentTimeline()
         if not timeline:
             print("Error: No timeline found. Run Step 2 first.")
             sys.exit(1)
-            
-        # Get Frame Rate to calculate frames from timestamps
-        frame_rate = float(project.GetSetting("timelineFrameRate"))
-        print(f"Timeline Frame Rate: {frame_rate}")
 
-        input_path = "how_en_audio.json"
+        frame_rate = float(project.GetSetting("timelineFrameRate"))
+        start_offset = timeline.GetStartFrame()
+        print(f"Timeline Frame Rate: {frame_rate}")
+        print(f"Timeline Start Offset: {start_offset} frames")
+
         if not os.path.exists(input_path):
-            print(f"Error: {input_path} not found. Run Step 6 first.")
+            print(f"Error: {input_path} not found.")
             sys.exit(1)
 
         with open(input_path, "r", encoding="utf-8") as f:
@@ -63,7 +70,7 @@ def main():
 
         media_pool = project.GetMediaPool()
         root_folder = media_pool.GetRootFolder()
-        
+
         # Create or find "English Dub" folder in Media Pool
         dub_folder = None
         for folder in root_folder.GetSubFolderList():
@@ -72,110 +79,103 @@ def main():
                 break
         if not dub_folder:
             dub_folder = media_pool.AddSubFolder(root_folder, "English Dub")
-        
+
         media_pool.SetCurrentFolder(dub_folder)
 
+        # New JSON format: data has "segments" list with "start_seconds", "end_seconds", "audio_path"
         segments = data.get("segments", [])
-        print(f"Importing and placing {len(segments)} audio clips...")
+        print(f"Found {len(segments)} segments in JSON.")
 
-        # To avoid adding one by one which is slow, we can import all first
+        # Collect valid audio paths
         audio_paths = []
         for segment in segments:
             path = segment.get("audio_path")
             if path and os.path.exists(path):
-                # Ensure absolute path
-                abs_path = os.path.abspath(path)
-                audio_paths.append(abs_path)
+                audio_paths.append(os.path.abspath(path))
             else:
-                print(f"Warning: Audio file not found for segment starting at {segment.get('start')}")
+                idx = segment.get("index", "?")
+                print(f"Warning: Audio file not found for segment {idx} (start: {segment.get('start', '?')})")
 
-        print("Importing media to pool...")
+        if not audio_paths:
+            print("Error: No valid audio files found.")
+            sys.exit(1)
+
+        print(f"Importing {len(audio_paths)} audio files to media pool...")
         imported_clips = media_pool.ImportMedia(audio_paths)
         if not imported_clips:
             print("Error: Failed to import clips.")
             sys.exit(1)
 
-        # Map filename to clip object for easy lookup
+        # Map filename -> clip object
         clip_map = {}
         for clip in imported_clips:
             clip_map[clip.GetName()] = clip
 
-        # Find the original video clip in the Media Pool
+        # Find original video clip in Media Pool
         video_clip = None
         for clip in root_folder.GetClipList():
-            if clip.GetName() == "how.mp4":
+            if clip.GetName() == video_filename:
                 video_clip = clip
                 break
-        
         if not video_clip:
-            print("Warning: Original video clip 'how.mp4' not found in Media Pool root.")
+            print(f"Warning: Original video clip '{video_filename}' not found in Media Pool root.")
 
-        print("Preparing clips for precise timeline placement (Video Track 2, Audio Track 2)...")
-        
+        print("Preparing clips for timeline placement (Audio Track 2)...")
+
         import wave
-        
+
         success_count = 0
         timeline_items = []
 
-        for i, segment in enumerate(segments):
-            start_time = segment.get("start")
-            end_time = segment.get("end")
+        for segment in segments:
             audio_path = segment.get("audio_path")
-            filename = f"en_{i+1:03d}.wav"
+            if not audio_path or not os.path.exists(audio_path):
+                continue
+
+            # Use start_seconds from new JSON format
+            start_seconds = segment.get("start_seconds")
+            end_seconds = segment.get("end_seconds")
+            if start_seconds is None or end_seconds is None:
+                print(f"Warning: Missing timing for segment {segment.get('index', '?')}, skipping.")
+                continue
+
+            # Get filename to look up clip in map
+            filename = os.path.basename(audio_path)
             audio_clip = clip_map.get(filename)
-            
-            if not audio_clip or not audio_path or not os.path.exists(audio_path):
+            if not audio_clip:
+                print(f"Warning: Clip '{filename}' not found in imported clips, skipping.")
                 continue
 
             # Calculate start frame in timeline
-            record_frame = int(start_time * frame_rate)
-            
-            # Get audio clip length in frames
+            record_frame = start_offset + int(start_seconds * frame_rate)
+
+            # Get actual audio duration from WAV file
             try:
-                with wave.open(audio_path, 'rb') as f:
-                    n_frames = f.getnframes()
-                    sample_rate = f.getframerate()
+                with wave.open(audio_path, 'rb') as wf:
+                    n_frames = wf.getnframes()
+                    sample_rate = wf.getframerate()
                     duration_sec = n_frames / float(sample_rate)
                     audio_duration_frames = int(duration_sec * frame_rate)
             except Exception as e:
-                print(f"Warning: Could not get duration for {filename}: {e}")
-                audio_duration_frames = int((end_time - start_time) * frame_rate)
+                print(f"Warning: Could not read WAV for '{filename}': {e}")
+                audio_duration_frames = int((end_seconds - start_seconds) * frame_rate)
 
-            # Place Audio on Audio Track 2 (mediaType 2 = Audio)
-            audio_info = {
+            timeline_items.append({
                 "mediaPoolItem": audio_clip,
                 "startFrame": 0,
                 "endFrame": audio_duration_frames,
                 "recordFrame": record_frame,
                 "trackIndex": 2,
                 "mediaType": 2
-            }
-            
-            # Place Video Segment on Video Track 2 (if video_clip found, mediaType 1 = Video)
-            if video_clip:
-                video_start_frame = int(start_time * frame_rate)
-                video_end_frame = video_start_frame + audio_duration_frames # match audio duration
-                
-                video_info = {
-                    "mediaPoolItem": video_clip,
-                    "startFrame": video_start_frame,
-                    "endFrame": video_end_frame,
-                    "recordFrame": record_frame,
-                    "trackIndex": 2,
-                    "mediaType": 1
-                }
-                timeline_items.append(video_info)
-
-            timeline_items.append(audio_info)
+            })
             success_count += 1
 
-        print(f"Appending {len(timeline_items)} items to timeline...")
-        # A single API call to append avoids placement drifting
+        print(f"Placing {len(timeline_items)} audio clips on timeline...")
         media_pool.AppendToTimeline(timeline_items)
 
-        print(f"Successfully prepared and placed {success_count} segments on the timeline.")
+        print(f"\nDone! Successfully placed {success_count}/{len(segments)} segments on the timeline.")
         project_manager.SaveProject()
-            
+
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         import traceback
