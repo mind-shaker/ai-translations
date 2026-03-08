@@ -1,0 +1,943 @@
+=== MISMATCH IN BATCH 3 (Attempt 1) ===
+Expected: 50 segments
+Got: 49 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[101] Тут немає складних термінів, тут немає якихось правил, немає часів.
+[102] Просто логічно, зрозуміло і на початках просто чудово.
+[103] Звісно, що якщо це інший якийсь вівень, то це вже буде трішки ускладнено.
+[104] В пром так ви це все побачите, але на зараз логіка така.
+[105] Ну що ж, а зараз буде мій улюблений етап.
+[106] Етап, коли ми починаємо говорити з нашим чатом.
+[107] Знову ж таки через ось цю кнопочку ми маємо перейти в режим розмови з ним.
+[108] І що ми кажемо?
+[109] Давай зараз з тобою зробимо простий діалог лізькою мовою для рівня А1.
+[110] Ти нова для мене людина і задавай мені прості питання по черзі.
+[111] Звісно, все гаразд.
+[112] Починаємо простий діалог і я ставлю питання по черзі.
+[113] Перше питання.
+[114] What is your name?
+[115] Як тебе звати?
+[116] My name is Anastasia.
+[117] Дякую, Анастасія.
+[118] Де ви від?
+[119] Я від України.
+[120] Добре.
+[121] Що вам подобається робити в вашому свободному часі?
+[122] Мені подобається готувати і тренуватися.
+[123] Звучить добре.
+[124] Можеш сказати мені, якщо ви заробляєте англійську зараз?
+[125] I think that you got it, that I'm learning English right now.
+[126] Absolutely.
+[127] I just wanted to hear you say it.
+[128] You're doing great.
+[129] Keep it up.
+[130] Ось.
+[131] Приблизно це відпувається якось так.
+[132] Дивіться, якщо на якомусь етапі він щось не так буде говорити, то ви можете просто йому дати якесь уточнення стосовно цього, або ж щоб він розбивав питання по чельсі, бо він інколи може видати їх отим прямо списком цілим.
+[133] Але загалом, дивіться, кліво будується розмова, ви ще можете попросити, наприклад, його перекладати кожне питання або ж підмічати якісь ваші помилки, коли ви відповідаєте, тому користуйтеся.
+[134] І після цього ми будемо тренувати письмо, так-так вам не почулося, я завжди говорю всім, чим більше ви пишете, тим краще ви говорите, тому тримайте пром для письма.
+[135] Допоможи мені написати три прості речення про себе англійською для рівня А1 Зараз я покажу вам, що він мені відповів, тому дивіться, додаю Перше він написав мені шаблони, які я можу використати І далі він дає типу твій хід, тобто щоб ви йому написали ці три речення У цьому випадку, коли ви будете писати йому свої речення Він буде вас виправляти, якщо щось буде не так Або ж навпаки вас хвалити, якщо ви все написали коректно І зараз дуже важливий нюанс.
+[136] Після кожного заняття ви маєте зафіксувати свій прогрес.
+[137] Ви маєте допомогти цій машині зафіксувати все те, що йому сталося, що ви йому пропишете.
+[138] Також промд.
+[139] Зроби коротке резюме уроку, що ми пройшли, які помилки повторюються, щоб повторити наступного разу.
+[140] Не більше 100 слів.
+[141] Дивіться, ви це все можете вставити і на кінці цього року, і на початку наступного, щоб ви не забували, що ви вже прийшли і могли звертати увагу на те, на чим вам краще треба попрацювати.
+[142] А зараз буде дуже логічне запитання певно від вас.
+[143] Окей, я оце сьогодні потренувалася, що мені робити далі?
+[144] Як самостійно це все робити?
+[145] А я вам скажу, вам не потрібно вигадувати велосипед, бо я вже за вас його вигадала.
+[146] Вам потрібно просто скопіювати цей промд і далі рухатися по нашій вже створеній цій road map.
+[147] Дивіться, який промд.
+[148] Проведи щоденний урок англійської для рівня А1.
+[149] Один урок – один день.
+[150] Працюй поетапно.
+
+--- RETURNED BY GEMINI ---
+[101] Тут немає складних термінів, тут немає якихось правил, немає часів.
+[102] Просто логічно, зрозуміло і на початках просто чудово.
+[104] У промптах ви це все побачите, але на зараз логіка така.
+[105] Ну що ж, а зараз буде мій улюблений етап.
+[106] Етап, коли ми починаємо говорити з нашим чатом.
+[107] Знову ж таки через ось цю кнопочку ми маємо перейти в режим розмови з ним.
+[108] І що ми кажемо?
+[109] Давай зараз з тобою зробимо простий діалог англійською мовою для рівня А1.
+[110] Ти нова для мене людина і задавай мені прості питання по черзі.
+[111] Звісно, все гаразд.
+[112] Починаємо простий діалог і я ставлю питання по черзі.
+[113] Перше питання.
+[114] What is your name?
+[115] Як тебе звати?
+[116] My name is Anastasia.
+[117] Дякую, Анастасія.
+[118] Звідки ви?
+[119] Я з України.
+[120] Добре.
+[121] Що вам подобається робити у вашому вільному часі?
+[122] Мені подобається готувати і тренуватися.
+[123] Звучить добре.
+[124] Можеш сказати мені, чи ви вивчаєте англійську зараз?
+[125] I think that you got it, that I'm learning English right now.
+[126] Absolutely.
+[127] I just wanted to hear you say it.
+[128] You're doing great.
+[129] Keep it up.
+[130] Ось.
+[131] Приблизно це відбувається якось так.
+[132] Дивіться, якщо на якомусь етапі він щось не так буде говорити, то ви можете просто йому дати якесь уточнення стосовно цього, або ж щоб він розбивав питання по черзі, бо він інколи може видати їх отим прямо списком цілим.
+[133] Але загалом, дивіться, класно будується розмова, ви ще можете попросити, наприклад, його перекладати кожне питання або ж підмічати якісь ваші помилки, коли ви відповідаєте, тому користуйтеся.
+[134] І після цього ми будемо тренувати письмо, так-так вам не почулося, я завжди говорю всім, чим більше ви пишете, тим краще ви говорите, тому тримайте промт для письма.
+[135] Допоможи мені написати три прості речення про себе англійською для рівня А1 Зараз я покажу вам, що він мені відповів, тому дивіться, додаю Перше він написав мені шаблони, які я можу використати І далі він дає типу твій хід, тобто щоб ви йому написали ці три речення У цьому випадку, коли ви будете писати йому свої речення Він буде вас виправляти, якщо щось буде не так Або ж навпаки вас хвалити, якщо ви все написали коректно І зараз дуже важливий нюанс.
+[136] Після кожного заняття ви маєте зафіксувати свій прогрес.
+[137] Ви маєте допомогти цій машині зафіксувати все те, що ви йому пропишете.
+[138] Також промт.
+[139] Зроби коротке резюме уроку, що ми пройшли, які помилки повторюються, щоб повторити наступного разу.
+[140] Не більше 100 слів.
+[141] Дивіться, ви це все можете вставити і наприкінці цього уроку, і на початку наступного, щоб ви не забували, що ви вже пройшли і могли звертати увагу на те, над чим вам краще треба попрацювати.
+[142] А зараз буде дуже логічне запитання певно від вас.
+[143] Окей, я оце сьогодні потренувалася, що мені робити далі?
+[144] Як самостійно це все робити?
+[145] А я вам скажу, вам не потрібно вигадувати велосипед, бо я вже за вас його вигадала.
+[146] Вам потрібно просто скопіювати цей промт і далі рухатися по нашій вже створеній цій road map.
+[147] Дивіться, який промт.
+[148] Проведи щоденний урок англійської для рівня А1.
+[149] Один урок – один день.
+[150] Працюй поетапно.
+=====================================
+
+=== MISMATCH IN BATCH 2 (Attempt 1) ===
+Expected: 50 segments
+Got: 49 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[51] Прочитай ці фрази у голос повільно.
+[52] І зараз я покажу вам, як це працює.
+[53] Звичайно. Я зараз прочитаю їх чітко і повільно, щоб тобі було легко повторювати.
+[54] Готовий? Поехали.
+[55] Перше. Hello.
+[56] Друге. Hi.
+[57] Третє. My name is Anna.
+[58] Шетверте. I am Anna.
+[59] П'яте. What is your name?
+[60] Шосте. Nice to meet you.
+[61] Сьоме. I am from Ukraine.
+[62] Восме. Where are you from?
+[63] Дев'яте. How are you?
+[64] Десяте. I am fine.
+[65] Повторю, скільки потрібно.
+[66] Якщо треба, скажи йому ще.
+[67] Ось так.
+[68] Дивіться, що тут важливо. Ви можете послухати це на один раз.
+[69] Я вам реально раджу слухати це не один раз.
+[70] Для чого? Для того, щоб ви будете фіксувати собі це в голові.
+[71] Ваш мозок буде це краще опрацьовувати.
+[72] І зможе потім це впізнавати в реальній мові, в реальній життєм мові.
+[73] І також зможе потім вам підкидати варіанти цих фраз, коли ви самі будете спілкуватись англійською.
+[74] Тому слухайте як набільше.
+[75] До речі, стосовно того, як це все послухати, я додам зараз ось тут таку скріншот.
+[76] Тому потрібно натиснути, щоб озвучити те, що було написано.
+[77] Наступним кроком у нас буде читання.
+[78] І не якась родовне читання, а читання саме того, з чим ви щойно працювали.
+[79] Тобто ми будемо ще раз відшліфовувати ті фрази і вирази, які ви і читали, і чули вже щойно, і який у нас буде промд для цього.
+[80] Дивіться.
+[81] Створим монолог історію, текст для читання.
+[82] Стати шести речень для рівня А1 з цими фразами.
+[83] Це має звучати як жива мова, один абзац, речення логічно пов'язані, без списку і без окремих фраз, щоб можна було сказати на одному диханні.
+[84] І зараз я вам покажу, що він мені створив.
+[85] Ось тут додаю такий скріншот його відповіді.
+[86] І що робити з цим.
+[87] Ви можете прочитати це в голос собі.
+[88] Можна не один раз навіть.
+[89] Можна попросити його знову це озвучити через оту кнопочку, яку я вам вже показувала.
+[90] І ще тут важливо, що ваш мозок сприймає те, що він десь раніше чув і він починає це пригадувати.
+[91] І в цей момент ви реально навчаєтеся.
+[92] І от зараз ми будемо переходити до граматики.
+[93] Але я не буду його зараз просити, щоб він мені написав правила використання.
+[94] Я його попробую, щоб він мені просто це пояснив.
+[95] І дивіться, що ми можемо йому написати.
+[96] Дивіться, що він мені відповідає.
+[97] I am, я є – це те, що ти кажеш про себе.
+[98] Коли ти хочеш сказати, хто ти, який ти, як ти себе почуваєш, ти починаєш з I am.
+[99] І приклади життя далі йдуть.
+[100] Як на мене, пояснення супер.
+
+--- RETURNED BY GEMINI ---
+[51] Read these phrases aloud slowly.
+[52] And now I will show you how it works.
+[53] Of course. I will now read them clearly and slowly so it's easy for you to repeat.
+[54] Ready? Let's go.
+[55] First. Hello.
+[56] Second. Hi.
+[57] Third. My name is Anna.
+[58] Fourth. I am Anna.
+[59] Fifth. What is your name?
+[60] Sixth. Nice to meet you.
+[61] Seventh. I am from Ukraine.
+[62] Eighth. Where are you from?
+[63] Ninth. How are you?
+[64] Tenth. I am fine.
+[65] Repeat as many times as needed.
+[66] If necessary, tell him more.
+[67] Like this.
+[68] Look, what's important here. You can listen to this once.
+[69] I really advise you not to listen to this just once.
+[70] Why? So that you will fix it in your mind.
+[71] Your brain will process it better.
+[72] And will then be able to recognize it in real language, in real everyday language.
+[73] And it will also be able to suggest variations of these phrases when you yourself speak English.
+[74] So listen as much as possible.
+[75] By the way, regarding how to listen to all this, I'm adding a screenshot right here.
+[76] So you need to click to vocalize what was written.
+[77] Our next step will be reading.
+[78] And not just any random reading, but reading exactly what you just worked with.
+[79] That is, we will once again polish those phrases and expressions that you have just read and heard, and what will be our prompt for this.
+[80] Look.
+[81] Let's create a monologue story, a text for reading.
+[82] Make it six sentences for A1 level with these phrases.
+[84] And now I will show you what it created for me.
+[85] Here I'm adding a screenshot of its response.
+[86] And what to do with this.
+[87] You can read this aloud to yourself.
+[88] Even more than once.
+[89] You can ask it to vocalize it again using that button I already showed you.
+[90] And what's also important here is that your brain perceives what it has heard somewhere before and starts to recall it.
+[91] And at this moment, you are truly learning.
+[92] And now we will move on to grammar.
+[93] But I won't ask it now to write down the rules of use for me.
+[94] I'll try asking it to just explain it to me.
+[95] And look what we can write to it.
+[96] Look what it answers me.
+[97] I am, 'я є' – this is what you say about yourself.
+[98] When you want to say who you are, what you are like, how you feel, you start with I am.
+[99] And real-life examples follow.
+[100] In my opinion, the explanation is super.
+=====================================
+
+=== MISMATCH IN BATCH 2 (Attempt 2) ===
+Expected: 50 segments
+Got: 49 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[51] Прочитай ці фрази у голос повільно.
+[52] І зараз я покажу вам, як це працює.
+[53] Звичайно. Я зараз прочитаю їх чітко і повільно, щоб тобі було легко повторювати.
+[54] Готовий? Поехали.
+[55] Перше. Hello.
+[56] Друге. Hi.
+[57] Третє. My name is Anna.
+[58] Шетверте. I am Anna.
+[59] П'яте. What is your name?
+[60] Шосте. Nice to meet you.
+[61] Сьоме. I am from Ukraine.
+[62] Восме. Where are you from?
+[63] Дев'яте. How are you?
+[64] Десяте. I am fine.
+[65] Повторю, скільки потрібно.
+[66] Якщо треба, скажи йому ще.
+[67] Ось так.
+[68] Дивіться, що тут важливо. Ви можете послухати це на один раз.
+[69] Я вам реально раджу слухати це не один раз.
+[70] Для чого? Для того, щоб ви будете фіксувати собі це в голові.
+[71] Ваш мозок буде це краще опрацьовувати.
+[72] І зможе потім це впізнавати в реальній мові, в реальній життєм мові.
+[73] І також зможе потім вам підкидати варіанти цих фраз, коли ви самі будете спілкуватись англійською.
+[74] Тому слухайте як набільше.
+[75] До речі, стосовно того, як це все послухати, я додам зараз ось тут таку скріншот.
+[76] Тому потрібно натиснути, щоб озвучити те, що було написано.
+[77] Наступним кроком у нас буде читання.
+[78] І не якась родовне читання, а читання саме того, з чим ви щойно працювали.
+[79] Тобто ми будемо ще раз відшліфовувати ті фрази і вирази, які ви і читали, і чули вже щойно, і який у нас буде промд для цього.
+[80] Дивіться.
+[81] Створим монолог історію, текст для читання.
+[82] Стати шести речень для рівня А1 з цими фразами.
+[83] Це має звучати як жива мова, один абзац, речення логічно пов'язані, без списку і без окремих фраз, щоб можна було сказати на одному диханні.
+[84] І зараз я вам покажу, що він мені створив.
+[85] Ось тут додаю такий скріншот його відповіді.
+[86] І що робити з цим.
+[87] Ви можете прочитати це в голос собі.
+[88] Можна не один раз навіть.
+[89] Можна попросити його знову це озвучити через оту кнопочку, яку я вам вже показувала.
+[90] І ще тут важливо, що ваш мозок сприймає те, що він десь раніше чув і він починає це пригадувати.
+[91] І в цей момент ви реально навчаєтеся.
+[92] І от зараз ми будемо переходити до граматики.
+[93] Але я не буду його зараз просити, щоб він мені написав правила використання.
+[94] Я його попробую, щоб він мені просто це пояснив.
+[95] І дивіться, що ми можемо йому написати.
+[96] Дивіться, що він мені відповідає.
+[97] I am, я є – це те, що ти кажеш про себе.
+[98] Коли ти хочеш сказати, хто ти, який ти, як ти себе почуваєш, ти починаєш з I am.
+[99] І приклади життя далі йдуть.
+[100] Як на мене, пояснення супер.
+
+--- RETURNED BY GEMINI ---
+[51] Read these phrases aloud slowly.
+[52] And now I will show you how it works.
+[53] Of course. I will now read them clearly and slowly, so it's easy for you to repeat.
+[54] Ready? Let's go.
+[55] First. Hello.
+[56] Second. Hi.
+[57] Third. My name is Anna.
+[58] Fourth. I am Anna.
+[59] Fifth. What is your name?
+[60] Sixth. Nice to meet you.
+[61] Seventh. I am from Ukraine.
+[62] Eighth. Where are you from?
+[63] Ninth. How are you?
+[64] Tenth. I am fine.
+[65] Repeat as many times as needed.
+[66] If necessary, tell him again.
+[67] Like this.
+[68] Look, what's important here. You can listen to this once.
+[69] I really advise you not to listen to this just once.
+[70] Why? So that you will fix it in your mind.
+[71] Your brain will process it better.
+[72] And will then be able to recognize it in real language, in real everyday language.
+[73] And it will also be able to suggest variations of these phrases when you yourself speak English.
+[74] So listen as much as possible.
+[75] By the way, regarding how to listen to all of this, I'll add a screenshot right here.
+[76] So you need to click to voice what was written.
+[77] Our next step will be reading.
+[78] And not some random reading, but reading exactly what you just worked with.
+[79] That is, we will once again refine the phrases and expressions that you have just read and heard, and what prompt we will have for this.
+[80] Look.
+[81] Let's create a monologue story, a text for reading.
+[82] Create six sentences for A1 level with these phrases.
+[83] It should sound like natural speech, one paragraph, sentences logically connected, without a list and without separate phrases, so it can be said in one breath.
+[84] And now I will show you what it created for me.
+[85] Here I'm adding a screenshot of its response.
+[87] You can read this aloud to yourself.
+[88] You can even do it more than once.
+[89] You can ask it to voice it again using that button I already showed you.
+[90] And it's also important here that your brain perceives what it has heard somewhere before and it starts recalling it.
+[91] And at this moment, you are truly learning.
+[92] And now we will move on to grammar.
+[93] But I won't ask it now to write down the rules of use for me.
+[94] I will try to have it just explain it to me.
+[95] And look what we can write to it.
+[96] Look what it answers me.
+[97] I am, I am – this is what you say about yourself.
+[98] When you want to say who you are, what you are like, how you feel, you start with I am.
+[99] And life examples follow.
+[100] In my opinion, the explanation is super.
+=====================================
+
+=== MISMATCH IN BATCH 4 (Attempt 1) ===
+Expected: 17 segments
+Got: 16 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[151] Почни з короткого повторення того, щоб ми вже проходили – 2-3 хвилини.
+[152] У повторенні використовуй ті самі слова і конструкції, що і раніше.
+[153] Після кожного кроку зупиняйся і чекай мого далі.
+[154] Структура уроку Коротке повторення Коротке пояснення нової теми 8-10 простих фраз, почитай їх в голос, короткий зв'язний текст, просте пояснення сенсу конструкцій, короткий діалог, три речення письма, говори просто і не перевантажуй.
+[155] І на цьому все, ChaGPT буде вести вас далі як реальний викладач.
+[156] Це просто магія, вважаю.
+[157] і стосовно цих от промтів.
+[158] Вони написані під загальню системою навчання.
+[159] Якщо вам потрібна якась конкретна тема або конкретно оглянути якусь грамотичну структуру і так далі, ви це, звісно, що можете коригувати.
+[160] Тому адаптовуйте.
+[161] Чаджі Пітіц – це не репетитор, але з кльово вибудованою системою ви зможете створити з нього реально працюючий тренажер.
+[162] Тому тут головне створити ось цю саме систему, щоб це було не хаотично, а отак розібрано, як ми сьогодні розібрали.
+[163] Бо саме так наш мозок засвої всіма пірями.
+[164] Тож, якщо вам було корисно, цікаво, сподобалося, дуже буду вдячна за підтримку.
+[165] Ставте лайк, коментар, підписуйтесь.
+[166] Хочу нагадати, що під цим відео і закріпленому коментарі ви побачите посилання на мій телеграм-канал, де будуть зібрані всі промки для кожного рівня.
+[167] Папа!
+
+--- RETURNED BY GEMINI ---
+[151] Почни з короткого повторення того, що ми вже пройшли – 2-3 хвилини.
+[152] У повторенні використовуй ті самі слова і конструкції, що і раніше.
+[153] Після кожного кроку зупиняйся і чекай на мою команду.
+[155] І на цьому все, ChatGPT буде вести вас далі як реальний викладач.
+[156] Це просто магія, вважаю.
+[157] і стосовно цих от промптів.
+[158] Вони написані під загальну систему навчання.
+[159] Якщо вам потрібна якась конкретна тема або конкретно оглянути якусь граматичну структуру і так далі, ви це, звісно, що можете коригувати.
+[160] Тому адаптовуйте.
+[161] ChatGPT – це не репетитор, але з кльовою вибудованою системою ви зможете створити з нього реально працюючий тренажер.
+[162] Тому тут головне створити ось цю саме систему, щоб це було не хаотично, а отак розібрано, як ми сьогодні розібрали.
+[163] Бо саме так наш мозок засвоїть усіма фібрами.
+[164] Тож, якщо вам було корисно, цікаво, сподобалося, дуже буду вдячна за підтримку.
+[165] Ставте лайк, коментар, підписуйтесь.
+[166] Хочу нагадати, що під цим відео та в закріпленому коментарі ви побачите посилання на мій телеграм-канал, де будуть зібрані усі промпти для кожного рівня.
+[167] Папа!
+=====================================
+
+=== MISMATCH IN BATCH 1 (Attempt 1) ===
+Expected: 50 segments
+Got: 16 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[1] Сьогодні я покажу вам, як ChatGPT можна перетворити на реальні навчальні інструменти, а не просто на перекладач.
+[2] Сьогодні я буду говорити не загально, а буду використовувати конкретні промти і запити, які ви також зможете відтворити.
+[3] Для прикладу сьогодні я буду показувати все це на рівні А1.
+[4] Але це відео не лише для початківців.
+[5] Ви зможете собі адаптувати це все також, бо ми будемо будувати прямо систему навчання.
+[6] А готові промти для свого рівня ви зможете знайти у закріпленому коментарі під дописом в моєму телеграм-каналі.
+[7] І наш перший крок – це база.
+[8] Вам потрібно достеменно знати, який рівень англійської у вас є зараз.
+[9] Тобто не окей написати у мене щось між A2 або B1.
+[10] Потрібно знати ваш чіткий рівень, бо тоді ChatGPT не зможе скласти програму конкретно під вас.
+[11] Буде або щось за дуже легке, або заважке навпаки.
+[12] На цей випадок я маю для вас готовий промт, який ви можете собі скопіювати і вставити для свого чату.
+[13] Зараз зачитаю.
+[14] Ти досвідчений викладач англійської мови.
+[15] Допоможи визначити мій рівень англійської.
+[16] Створи серію завдань, які перевіряють лексику, граматику, розуміння тексту, говоріння.
+[17] кроково, поступово ускладнюючи.
+[18] Після моїх відповідей поясни, що це означає для мого рівня.
+[19] І скажи, який він.
+[20] І через 20-30 хвилин у вас з'явиться реальне розуміння, де ви зараз є і куди вам потрібно рухатися далі.
+[21] І далі ще один критично важливий момент, яку помилку я бачу постійно, що люди відкривають дуже багато чатів і намагаються в них навчатися.
+[22] Але Дуже важливо відкривати лише один чат і навчатися саме в ньому.
+[23] Бо тоді ось цей чат запам'ятовує все про вас.
+[24] Які помилки ви робили, що ви не так говорили, що ви вже проходили, що потрібно ще раз закріпити.
+[25] А коли ви відкриваєте нові чати, ця пам'ять не зберігається і ви нібито заново проходите те саме.
+[26] Тому фіксуємо один чат, один викладач.
+[27] Ну що ж, тепер наш другий крок.
+[28] Зараз ми будемо створювати з вами того самого викладача, який буде нас навчати.
+[29] І давайте зачитаємо цей промт, ну його зможете скопіювати потім.
+[30] Я вивчаю англійську мову, мій рівень А1, тут ви можете вставити свій рівень.
+[31] Навчай мене як терплячий викладач, від простого до складного, короткими кроками, з постійним повторенням, без перевантаження.
+[32] Працюй зі мною в одному чаті, запам'ятовуй мої типові помилки, повертайся до них пізніше, спочатку поясни, потім давай практику, потім повторюй, говори просто і зрозуміло.
+[33] І оцим кроком ви робите дуже важливу річ, ви не просто відкриваєте рандомний чат ще один, ви робите свого постійного стабільного викладача.
+[34] Ну от ви вже створили свого викладача, ви йому дали ціль, зараз будемо йти до практики.
+[35] Наступним кроком нам потрібно отримати від нього певні готові фрази, які відповідають нашому рівню.
+[36] Що ми йому пишемо?
+[37] Дай мені 10 дуже простих англійських фраз для рівня А1 на тему знайомства без граматичних пояснень.
+[38] Тут ви можете замінити і рівень, і тему, на яку ви хочете отримати ці фрази, але, загалом, я думаю, логіка зрозуміла.
+[39] І дивіться, якщо він нам буде надсилати, я вам додам тут скріншот, от він прямо надсилає.
+[40] Добре, ось 10 дуже простих фраз для рівня А1 на тему знайомства.
+[41] І йде перелік там, hello, hi, my name is Anna, і так далі.
+[42] В принципі він свою роботу зробив, він надіслав вам не просто слова, а цілі такі готові фрази.
+[43] А я думаю, що ви маєте вже знати, що англійську мову потрібно вчити не окремими словами, а готовими мовними шматочками.
+[44] Наступним етапом у нас буде слухання і промт для слухання.
+[45] Прочитай ці фрази вголос повільно.
+[46] І зараз я покажу вам, як це працює.
+[47] Слухай.
+[48] Я зараз прочитаю їх чітко і повільно, щоб тобі було легко повторювати.
+[49] Готовий?
+[50] Поїхали.
+
+--- RETURNED BY GEMINI ---
+[1] Today I will show you how ChatGPT can be turned into real learning tools, not just a translator.
+[2] Today I will not speak generally, but will use specific prompts and queries that you will also be able to replicate.
+[3] For example, today I will show all of this at the A1 level.
+[4] But this video is not only for beginners.
+[5] You will be able to adapt all of this for yourself too, because we will be building a learning system directly.
+[6] And you can find ready-made prompts for your level in the pinned comment under the post in my Telegram channel.
+[7] And our first step is the foundation.
+[8] You need to know exactly what your current level of English is.
+[9] So it's not okay to write "I have something between A2 or B1".
+[10] You need to know your clear level, because then ChatGPT won't be able to create a program specifically for you.
+[11] It will either be too easy or too difficult otherwise.
+[12] In this case, I have a ready-made prompt for you that you can copy and paste into your chat.
+[13] I'll read it now.
+[14] You are an experienced English teacher.
+[15] Help me determine my English level.
+[16] Create a series of tasks that test vocabulary, grammar, reading comprehension, speaking.
+=====================================
+
+=== MISMATCH IN BATCH 2 (Attempt 1) ===
+Expected: 50 segments
+Got: 49 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[51] Перше.
+[52] Hello.
+[53] Друге.
+[54] Hi.
+[55] Третє.
+[56] My name is Anna.
+[57] Четверте.
+[58] I am Anna.
+[59] П'яте.
+[60] What is your name?
+[61] Шосте.
+[62] Nice to meet you.
+[63] Сьоме.
+[64] I am from Ukraine.
+[65] Восьме.
+[66] Where are you from?
+[67] Дев'яте.
+[68] How are you?
+[69] Десяте.
+[70] I am fine.
+[71] Повторюю, скільки потрібно, якщо треба, скажи і ми ще.
+[72] Ось так.
+[73] Дивіться, що тут важливо.
+[74] Ви можете послухати це не один раз.
+[75] Вірніше, я вам реально раджу слухати це не один раз.
+[76] Для чого?
+[77] Для того, щоб ви будете фіксувати собі це в голові, ваш мозок буде це краще опрацьовувати і зможе потім це впізнавати в реальній мові, в реальній живій мові.
+[78] І також зможе потім вам підкидати варіанти цих фраз, коли ви самі будете спілкуватись англійською.
+[79] Тому слухайте якнайбільше.
+[80] До речі, стосовно того, як це все послухати, Я додам зараз ось тут такий скріншот, на що потрібно натиснути, щоб озвучити те, що було написано.
+[81] Наступним кроком у нас буде читання.
+[82] І не якесь випадкове читання, а читання саме того, з чим ви щойно працювали.
+[83] Тобто ми будемо ще раз відшліфовувати ті фрази і вирази, які ви і читали, і чули вже щойно, і який у нас буде промпт для цього.
+[84] Дивіться.
+[85] Створим монолог, історію, текст для читання.
+[86] З шести речень для рівня А1 з цими фразами.
+[87] Це має звучати як жива мова, один абзац, речень є логічно пов'язані, без списку і без окремих фраз, щоб можна було сказати на одному диханні.
+[88] І зараз я вам покажу, що він мені створив.
+[89] Ось тут додаю такий скріншот його відповіді.
+[90] І що робити з цим?
+[91] Ви можете прочитати це вголос собі.
+[92] Можна не один раз навіть.
+[93] Можна попросити його знову це озвучити через оту кнопочку, яку я вам вже показувала.
+[94] І що тут важливо?
+[95] Що ваш мозок сприймає те, що він десь раніше чув і він починає це пригадувати.
+[96] І в цей момент ви реально навчаєтеся І от зараз ми будемо переходити до граматики Але я не буду його зараз просити, щоб він мені написав правила використання Я його попрошу, щоб він мені просто це пояснив І дивіться, що ми можемо йому написати Поясни дуже просто, що означає I am без граматичних термінів і складних пояснень Дивіться, що він мені відповідає.
+[97] I am, я є. Це те, що ти кажеш про себе.
+[98] Коли ти хочеш сказати, хто ти, який ти, як ти себе почуваєш, ти починаєш з I am.
+[99] І приклади з життя далі йдуть.
+[100] Як на мене, пояснення супер.
+
+--- RETURNED BY GEMINI ---
+[51] First.
+[52] Hello.
+[53] Second.
+[54] Hi.
+[55] Third.
+[56] My name is Anna.
+[57] Fourth.
+[58] I am Anna.
+[59] Fifth.
+[60] What is your name?
+[61] Sixth.
+[62] Nice to meet you.
+[63] Seventh.
+[64] I am from Ukraine.
+[65] Eighth.
+[66] Where are you from?
+[67] Ninth.
+[68] How are you?
+[70] I am fine.
+[71] I'll repeat as many times as needed; if you need, just say so and we'll do more.
+[72] Like so.
+[73] Look, what's important here.
+[74] You can listen to this more than once.
+[75] Actually, I really advise you to listen to this more than once.
+[76] What for?
+[77] So that you will fix it in your mind, your brain will process it better and will be able to recognize it later in real language, in real spoken language.
+[78] And it will also be able to suggest variations of these phrases to you later when you speak English yourself.
+[79] So listen as much as possible.
+[80] By the way, regarding how to listen to all of this, I will now add a screenshot here of what you need to click to voice what was written.
+[81] Our next step will be reading.
+[82] And not just any random reading, but reading exactly what you just worked with.
+[83] That is, we will once again polish those phrases and expressions that you have already read and heard, and what will be our prompt for this.
+[84] Look.
+[85] Let's create a monologue, a story, a text for reading.
+[86] Of six sentences for A1 level with these phrases.
+[87] It should sound like natural language, one paragraph, sentences are logically connected, without a list and without separate phrases, so it could be said in one breath.
+[88] And now I will show you what it created for me.
+[89] Here I'm adding a screenshot of its response.
+[90] And what to do with this?
+[91] You can read this aloud to yourself.
+[92] You can even do it more than once.
+[93] You can ask it to voice it again using that button I already showed you.
+[94] And what's important here?
+[95] That your brain perceives what it has heard somewhere before and starts to recall it.
+[96] And at this moment you are truly learning. And now we will move on to grammar. But I won't ask it to write down the rules of use for me now. I will ask it to simply explain it to me. And look what we can write to it: Explain very simply what "I am" means, without grammatical terms and complex explanations. See what it answers me.
+[97] I am, I am. This is what you say about yourself.
+[98] When you want to say who you are, what you are like, how you feel, you start with I am.
+[99] And real-life examples follow.
+[100] In my opinion, the explanation is great.
+=====================================
+
+=== MISMATCH IN BATCH 2 (Attempt 2) ===
+Expected: 50 segments
+Got: 49 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[51] Перше.
+[52] Hello.
+[53] Друге.
+[54] Hi.
+[55] Третє.
+[56] My name is Anna.
+[57] Четверте.
+[58] I am Anna.
+[59] П'яте.
+[60] What is your name?
+[61] Шосте.
+[62] Nice to meet you.
+[63] Сьоме.
+[64] I am from Ukraine.
+[65] Восьме.
+[66] Where are you from?
+[67] Дев'яте.
+[68] How are you?
+[69] Десяте.
+[70] I am fine.
+[71] Повторюю, скільки потрібно, якщо треба, скажи і ми ще.
+[72] Ось так.
+[73] Дивіться, що тут важливо.
+[74] Ви можете послухати це не один раз.
+[75] Вірніше, я вам реально раджу слухати це не один раз.
+[76] Для чого?
+[77] Для того, щоб ви будете фіксувати собі це в голові, ваш мозок буде це краще опрацьовувати і зможе потім це впізнавати в реальній мові, в реальній живій мові.
+[78] І також зможе потім вам підкидати варіанти цих фраз, коли ви самі будете спілкуватись англійською.
+[79] Тому слухайте якнайбільше.
+[80] До речі, стосовно того, як це все послухати, Я додам зараз ось тут такий скріншот, на що потрібно натиснути, щоб озвучити те, що було написано.
+[81] Наступним кроком у нас буде читання.
+[82] І не якесь випадкове читання, а читання саме того, з чим ви щойно працювали.
+[83] Тобто ми будемо ще раз відшліфовувати ті фрази і вирази, які ви і читали, і чули вже щойно, і який у нас буде промпт для цього.
+[84] Дивіться.
+[85] Створим монолог, історію, текст для читання.
+[86] З шести речень для рівня А1 з цими фразами.
+[87] Це має звучати як жива мова, один абзац, речень є логічно пов'язані, без списку і без окремих фраз, щоб можна було сказати на одному диханні.
+[88] І зараз я вам покажу, що він мені створив.
+[89] Ось тут додаю такий скріншот його відповіді.
+[90] І що робити з цим?
+[91] Ви можете прочитати це вголос собі.
+[92] Можна не один раз навіть.
+[93] Можна попросити його знову це озвучити через оту кнопочку, яку я вам вже показувала.
+[94] І що тут важливо?
+[95] Що ваш мозок сприймає те, що він десь раніше чув і він починає це пригадувати.
+[96] І в цей момент ви реально навчаєтеся І от зараз ми будемо переходити до граматики Але я не буду його зараз просити, щоб він мені написав правила використання Я його попрошу, щоб він мені просто це пояснив І дивіться, що ми можемо йому написати Поясни дуже просто, що означає I am без граматичних термінів і складних пояснень Дивіться, що він мені відповідає.
+[97] I am, я є. Це те, що ти кажеш про себе.
+[98] Коли ти хочеш сказати, хто ти, який ти, як ти себе почуваєш, ти починаєш з I am.
+[99] І приклади з життя далі йдуть.
+[100] Як на мене, пояснення супер.
+
+--- RETURNED BY GEMINI ---
+[51] First.
+[52] Hello.
+[53] Second.
+[54] Hi.
+[55] Third.
+[56] My name is Anna.
+[57] Fourth.
+[58] I am Anna.
+[59] Fifth.
+[60] What is your name?
+[61] Sixth.
+[62] Nice to meet you.
+[63] Seventh.
+[64] I am from Ukraine.
+[65] Eighth.
+[66] Where are you from?
+[67] Ninth.
+[68] How are you?
+[69] Tenth.
+[70] I am fine.
+[71] I'll repeat as many times as needed, if you need it, just say so and we'll do more.
+[72] Like this.
+[73] Look, what's important here.
+[74] You can listen to this more than once.
+[75] Actually, I really advise you to listen to this more than once.
+[76] For what purpose?
+[77] So that you will fix it in your mind, your brain will process it better and will then be able to recognize it in real language, in real live language.
+[78] And it will also be able to then suggest variations of these phrases when you are speaking English yourself.
+[79] So listen as much as possible.
+[80] By the way, regarding how to listen to all this, I'll add a screenshot here right now, showing what you need to click to voice what was written.
+[81] Our next step will be reading.
+[82] And not just any random reading, but reading exactly what you just worked with.
+[83] In other words, we will once again polish those phrases and expressions that you have already read and heard just now, and what prompt we will have for this.
+[84] Look.
+[85] We will create a monologue, a story, a text for reading.
+[86] Of six sentences for A1 level with these phrases.
+[87] It should sound like live speech, one paragraph, sentences are logically connected, without a list and without separate phrases, so that it can be said in one breath.
+[88] And now I'll show you what it created for me.
+[89] Here I'm adding a screenshot of its answer.
+[90] And what to do with this? You can read it aloud to yourself.
+[91] You can even do it more than once.
+[92] You can ask it to voice it again through that button I already showed you.
+[93] And what's important here?
+[94] That your brain perceives what it has heard before somewhere and it starts recalling it.
+[95] And at this moment you are truly learning. And now we will move on to grammar. But I won't ask it to write down the rules of use for me right now. I'll ask it to simply explain it to me. And look what we can write to it: "Explain very simply what "I am" means, without grammatical terms and complex explanations." Look at what it answers me.
+[96] "I am, I am." This is what you say about yourself.
+[97] When you want to say who you are, what you are like, how you feel, you start with "I am."
+[98] And then real-life examples follow.
+[99] In my opinion, the explanation is great.
+=====================================
+
+=== MISMATCH IN BATCH 2 (Attempt 3) ===
+Expected: 50 segments
+Got: 49 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[51] Перше.
+[52] Hello.
+[53] Друге.
+[54] Hi.
+[55] Третє.
+[56] My name is Anna.
+[57] Четверте.
+[58] I am Anna.
+[59] П'яте.
+[60] What is your name?
+[61] Шосте.
+[62] Nice to meet you.
+[63] Сьоме.
+[64] I am from Ukraine.
+[65] Восьме.
+[66] Where are you from?
+[67] Дев'яте.
+[68] How are you?
+[69] Десяте.
+[70] I am fine.
+[71] Повторюю, скільки потрібно, якщо треба, скажи і ми ще.
+[72] Ось так.
+[73] Дивіться, що тут важливо.
+[74] Ви можете послухати це не один раз.
+[75] Вірніше, я вам реально раджу слухати це не один раз.
+[76] Для чого?
+[77] Для того, щоб ви будете фіксувати собі це в голові, ваш мозок буде це краще опрацьовувати і зможе потім це впізнавати в реальній мові, в реальній живій мові.
+[78] І також зможе потім вам підкидати варіанти цих фраз, коли ви самі будете спілкуватись англійською.
+[79] Тому слухайте якнайбільше.
+[80] До речі, стосовно того, як це все послухати, Я додам зараз ось тут такий скріншот, на що потрібно натиснути, щоб озвучити те, що було написано.
+[81] Наступним кроком у нас буде читання.
+[82] І не якесь випадкове читання, а читання саме того, з чим ви щойно працювали.
+[83] Тобто ми будемо ще раз відшліфовувати ті фрази і вирази, які ви і читали, і чули вже щойно, і який у нас буде промпт для цього.
+[84] Дивіться.
+[85] Створим монолог, історію, текст для читання.
+[86] З шести речень для рівня А1 з цими фразами.
+[87] Це має звучати як жива мова, один абзац, речень є логічно пов'язані, без списку і без окремих фраз, щоб можна було сказати на одному диханні.
+[88] І зараз я вам покажу, що він мені створив.
+[89] Ось тут додаю такий скріншот його відповіді.
+[90] І що робити з цим?
+[91] Ви можете прочитати це вголос собі.
+[92] Можна не один раз навіть.
+[93] Можна попросити його знову це озвучити через оту кнопочку, яку я вам вже показувала.
+[94] І що тут важливо?
+[95] Що ваш мозок сприймає те, що він десь раніше чув і він починає це пригадувати.
+[96] І в цей момент ви реально навчаєтеся І от зараз ми будемо переходити до граматики Але я не буду його зараз просити, щоб він мені написав правила використання Я його попрошу, щоб він мені просто це пояснив І дивіться, що ми можемо йому написати Поясни дуже просто, що означає I am без граматичних термінів і складних пояснень Дивіться, що він мені відповідає.
+[97] I am, я є. Це те, що ти кажеш про себе.
+[98] Коли ти хочеш сказати, хто ти, який ти, як ти себе почуваєш, ти починаєш з I am.
+[99] І приклади з життя далі йдуть.
+[100] Як на мене, пояснення супер.
+
+--- RETURNED BY GEMINI ---
+[51] First.
+[52] Hello.
+[53] Second.
+[54] Hi.
+[55] Third.
+[56] My name is Anna.
+[57] Fourth.
+[58] I am Anna.
+[59] Fifth.
+[60] What is your name?
+[61] Sixth.
+[62] Nice to meet you.
+[63] Seventh.
+[64] I am from Ukraine.
+[65] Eighth.
+[66] Where are you from?
+[67] Ninth.
+[68] How are you?
+[70] I am fine.
+[71] I repeat as many times as needed, if necessary, tell me and we will do it again.
+[72] Like this.
+[73] Look, what's important here.
+[74] You can listen to this more than once.
+[75] Or rather, I really advise you to listen to this more than once.
+[76] What for?
+[77] So that you will fix this in your head, your brain will process it better and will then be able to recognize it in real language, in real live speech.
+[78] And it will also be able to then suggest options for these phrases when you are speaking English yourself.
+[79] So listen as much as possible.
+[80] By the way, regarding how to listen to all this, I will now add a screenshot here, showing what you need to click to voice what was written.
+[81] Our next step will be reading.
+[82] And not some random reading, but reading exactly what you just worked with.
+[83] That is, we will once again polish those phrases and expressions that you have already read and heard, and what our prompt for this will be.
+[84] Look.
+[85] Let's create a monologue, a story, a text for reading.
+[86] Of six sentences for A1 level with these phrases.
+[87] This should sound like live speech, one paragraph, sentences are logically connected, without a list and without separate phrases, so that it can be said in one breath.
+[88] And now I'll show you what it created for me.
+[89] Here I'm adding a screenshot of its response.
+[90] And what to do with this?
+[91] You can read this aloud to yourself.
+[92] You can do it more than once even.
+[93] You can ask it to voice it again using that button I already showed you.
+[94] And what's important here?
+[95] That your brain perceives what it has heard somewhere before and starts recalling it.
+[96] And at this moment you are really learning. And now we are going to move on to grammar. But I'm not going to ask it now to write down the rules of use for me. I will ask it to simply explain it to me. And look what we can write to it: Explain very simply what "I am" means, without grammatical terms and complex explanations. Look what it answers me.
+[97] I am, I am. This is what you say about yourself.
+[98] When you want to say who you are, what you are like, how you feel, you start with "I am."
+[99] And real-life examples follow.
+[100] In my opinion, the explanation is super.
+=====================================
+
+=== MISMATCH IN BATCH 1 (Attempt 2) ===
+Expected: 50 segments
+Got: 11 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[1] Сьогодні я покажу вам, як ChatGPT можна перетворити на реальні навчальні інструменти, а не просто на перекладач.
+[2] Сьогодні я буду говорити не загально, а буду використовувати конкретні промти і запити, які ви також зможете відтворити.
+[3] Для прикладу сьогодні я буду показувати все це на рівні А1.
+[4] Але це відео не лише для початківців.
+[5] Ви зможете собі адаптувати це все також, бо ми будемо будувати прямо систему навчання.
+[6] А готові промти для свого рівня ви зможете знайти у закріпленому коментарі під дописом в моєму телеграм-каналі.
+[7] І наш перший крок – це база.
+[8] Вам потрібно достеменно знати, який рівень англійської у вас є зараз.
+[9] Тобто не окей написати у мене щось між A2 або B1.
+[10] Потрібно знати ваш чіткий рівень, бо тоді ChatGPT не зможе скласти програму конкретно під вас.
+[11] Буде або щось за дуже легке, або заважке навпаки.
+[12] На цей випадок я маю для вас готовий промт, який ви можете собі скопіювати і вставити для свого чату.
+[13] Зараз зачитаю.
+[14] Ти досвідчений викладач англійської мови.
+[15] Допоможи визначити мій рівень англійської.
+[16] Створи серію завдань, які перевіряють лексику, граматику, розуміння тексту, говоріння.
+[17] кроково, поступово ускладнюючи.
+[18] Після моїх відповідей поясни, що це означає для мого рівня.
+[19] І скажи, який він.
+[20] І через 20-30 хвилин у вас з'явиться реальне розуміння, де ви зараз є і куди вам потрібно рухатися далі.
+[21] І далі ще один критично важливий момент, яку помилку я бачу постійно, що люди відкривають дуже багато чатів і намагаються в них навчатися.
+[22] Але Дуже важливо відкривати лише один чат і навчатися саме в ньому.
+[23] Бо тоді ось цей чат запам'ятовує все про вас.
+[24] Які помилки ви робили, що ви не так говорили, що ви вже проходили, що потрібно ще раз закріпити.
+[25] А коли ви відкриваєте нові чати, ця пам'ять не зберігається і ви нібито заново проходите те саме.
+[26] Тому фіксуємо один чат, один викладач.
+[27] Ну що ж, тепер наш другий крок.
+[28] Зараз ми будемо створювати з вами того самого викладача, який буде нас навчати.
+[29] І давайте зачитаємо цей промт, ну його зможете скопіювати потім.
+[30] Я вивчаю англійську мову, мій рівень А1, тут ви можете вставити свій рівень.
+[31] Навчай мене як терплячий викладач, від простого до складного, короткими кроками, з постійним повторенням, без перевантаження.
+[32] Працюй зі мною в одному чаті, запам'ятовуй мої типові помилки, повертайся до них пізніше, спочатку поясни, потім давай практику, потім повторюй, говори просто і зрозуміло.
+[33] І оцим кроком ви робите дуже важливу річ, ви не просто відкриваєте рандомний чат ще один, ви робите свого постійного стабільного викладача.
+[34] Ну от ви вже створили свого викладача, ви йому дали ціль, зараз будемо йти до практики.
+[35] Наступним кроком нам потрібно отримати від нього певні готові фрази, які відповідають нашому рівню.
+[36] Що ми йому пишемо?
+[37] Дай мені 10 дуже простих англійських фраз для рівня А1 на тему знайомства без граматичних пояснень.
+[38] Тут ви можете замінити і рівень, і тему, на яку ви хочете отримати ці фрази, але, загалом, я думаю, логіка зрозуміла.
+[39] І дивіться, якщо він нам буде надсилати, я вам додам тут скріншот, от він прямо надсилає.
+[40] Добре, ось 10 дуже простих фраз для рівня А1 на тему знайомства.
+[41] І йде перелік там, hello, hi, my name is Anna, і так далі.
+[42] В принципі він свою роботу зробив, він надіслав вам не просто слова, а цілі такі готові фрази.
+[43] А я думаю, що ви маєте вже знати, що англійську мову потрібно вчити не окремими словами, а готовими мовними шматочками.
+[44] Наступним етапом у нас буде слухання і промт для слухання.
+[45] Прочитай ці фрази вголос повільно.
+[46] І зараз я покажу вам, як це працює.
+[47] Слухай.
+[48] Я зараз прочитаю їх чітко і повільно, щоб тобі було легко повторювати.
+[49] Готовий?
+[50] Поїхали.
+
+--- RETURNED BY GEMINI ---
+[1] Today I will show you how ChatGPT can be transformed into real learning tools, and not just a translator.
+[2] Today I will not speak generally, but will use specific prompts and queries that you can also reproduce.
+[3] For example, today I will show all this at A1 level.
+[4] But this video is not only for beginners.
+[5] You will be able to adapt all this for yourself, because we will be building a direct learning system.
+[6] And ready prompts for your level you can find in the pinned comment under the post in my Telegram channel.
+[7] And our first step is the base.
+[8] You need to know exactly what level of English you have right now.
+[9] So it's not okay to write "I'm somewhere between A2 or B1".
+[10] You need to know your clear level, because then ChatGPT will not be able to create a program specifically for you.
+[11] It will either be too easy or too difficult.
+=====================================
+
+=== MISMATCH IN BATCH 3 (Attempt 1) ===
+Expected: 50 segments
+Got: 49 segments
+
+--- ORIGINAL SENT TO GEMINI ---
+[101] Тут немає складних термінів, тут немає якихось правил, немає часів.
+[102] Просто логічно, зрозуміло і на початку просто чудово.
+[103] Звісно, що якщо це інший якийсь рівень, то це вже буде трішки ускладнено.
+[104] У промптах ви це все побачите, але наразі логіка така.
+[105] Ну що ж, а зараз буде мій улюблений етап.
+[106] Етап, коли ми починаємо говорити з нашим чатом.
+[107] Знову ж таки через ось цю кнопочку ми маємо перейти в режим розмови з ним.
+[108] І що ми кажемо?
+[109] Давай зараз з тобою зробимо простий діалог англійською мовою для рівня А1.
+[110] Ти нова для мене людина і задавай мені прості питання по черзі.
+[111] Звісно, все гаразд.
+[112] Починаємо простий діалог і я ставлю питання по черзі.
+[113] Перше питання.
+[114] What is your name?
+[115] Як тебе звати?
+[116] My name is Anastasia.
+[117] Дякую, Анастасія.
+[118] Звідки ви?
+[119] Я з України.
+[120] Добре.
+[121] Що вам подобається робити у вашому вільному часі?
+[122] Мені подобається готувати і тренуватися.
+[123] Звучить добре.
+[124] Можеш сказати мені, чи ви вивчаєте англійську зараз?
+[125] I think that you got it, that I'm learning English right now.
+[126] Absolutely.
+[127] I just wanted to hear you say it.
+[128] You're doing great.
+[129] Keep it up.
+[130] Ось.
+[131] Приблизно це відбувається якось так.
+[132] Дивіться, якщо на якомусь етапі він щось не так буде говорити, то ви можете просто йому дати якесь уточнення стосовно цього, або ж щоб він розбивав питання по черзі, бо він інколи може видати їх отим прямо цілим списком.
+[133] Але загалом, дивіться, кльово будується розмова, ви ще можете попросити, наприклад, його перекладати кожне питання або ж помічати якісь ваші помилки, коли ви відповідаєте, тому користуйтеся.
+[134] І після цього ми будемо тренувати письмо, так-так вам не почулося, я завжди говорю всім, чим більше ви пишете, тим краще ви говорите, тому тримайте промпт для письма.
+[135] Допоможи мені написати три прості речення про себе англійською для рівня А1 Зараз я покажу вам, що він мені відповів, тому дивіться, додаю Перше він написав мені шаблони, які я можу використати І далі він дає типу твій хід, тобто щоб ви йому написали ці три речення У цьому випадку, коли ви будете писати йому свої речення Він буде вас виправляти, якщо щось буде не так Або ж навпаки вас хвалити, якщо ви все написали коректно І зараз дуже важливий нюанс.
+[136] Після кожного заняття ви маєте зафіксувати свій прогрес.
+[137] Ви маєте допомогти цій машині зафіксувати все те, що ви йому пропишете.
+[138] Також промпт.
+[139] Зроби коротке резюме уроку, що ми пройшли, які помилки повторюються, щоб повторити наступного разу.
+[140] Не більше 100 слів.
+[141] Дивіться, ви це все можете вставити і на кінці цього уроку, і на початку наступного, щоб ви не забували, що ви вже прийшли і могли звертати увагу на те, над чим вам краще треба попрацювати.
+[142] А зараз буде дуже логічне запитання певно від вас.
+[143] Окей, я оце сьогодні потренувалася, що мені робити далі?
+[144] Як самостійно це все робити?
+[145] А я вам скажу, вам не потрібно вигадувати велосипед, бо я вже за вас його вигадала.
+[146] Вам потрібно просто скопіювати цей промпт і далі рухатися по нашій вже створеній цій дорожній карті.
+[147] Дивіться, який промпт.
+[148] Проведи щоденний урок англійської для рівня А1.
+[149] Один урок – один день.
+[150] Працюй поетапно.
+
+--- RETURNED BY GEMINI ---
+[101] There are no complex terms, no specific rules, no tenses here.
+[102] It's simply logical, understandable, and excellent for beginners.
+[103] Of course, if it's a different level, it will be a bit more complicated.
+[104] You'll see all this in the prompts, but for now, the logic is this.
+[105] Well, now it's my favorite stage.
+[106] The stage when we start talking to our chat.
+[107] Again, through this button, we need to switch to conversation mode with it.
+[108] And what do we say?
+[109] Let's create a simple dialogue in English for A1 level with you now.
+[110] You are a new person to me, and ask me simple questions one by one.
+[111] Of course, everything is fine.
+[112] Let's start a simple dialogue, and I'll ask questions one by one.
+[113] First question.
+[114] What is your name?
+[115] What is your name?
+[116] My name is Anastasia.
+[117] Thank you, Anastasia.
+[118] Where are you from?
+[119] I am from Ukraine.
+[120] Good.
+[121] What do you like to do in your free time?
+[122] I like to cook and work out.
+[123] Sounds good.
+[124] Can you tell me if you are learning English now?
+[125] I think that you got it, that I'm learning English right now.
+[126] Absolutely.
+[127] I just wanted to hear you say it.
+[128] You're doing great.
+[129] Keep it up.
+[130] So.
+[131] This is roughly how it happens.
+[132] Look, if at some point it says something wrong, you can just give it some clarification about it, or ask it to break down the questions one by one, because sometimes it might just give them as a whole list.
+[133] But overall, look, the conversation is built coolly, you can also ask it, for example, to translate each question or to point out any of your mistakes when you answer, so use it.
+[134] And after that, we will practice writing, yes, you heard right, I always tell everyone, the more you write, the better you speak, so here's a prompt for writing: "Help me write three simple sentences about myself in English for A1 level." Now I'll show you what it replied to me, so look, I'm adding. First, it wrote me templates that I can use. And then it gives "your turn" type of message, meaning you write these three sentences to it. In this case, when you write your sentences to it, it will correct you if something is wrong. Or, conversely, praise you if you wrote everything correctly. And now a very important nuance. Also a prompt.
+[135] After each session, you must record your progress.
+[136] You must help this machine record everything you write to it.
+[137] Also a prompt.
+[138] Make a short summary of the lesson we covered, what mistakes are repeated, to review next time.
+[139] No more than 100 words.
+[140] Look, you can insert all this both at the end of this lesson and at the beginning of the next, so that you don't forget what you've already covered and can pay attention to what you need to work on better.
+[141] And now there will probably be a very logical question from you.
+[142] Okay, I practiced today, what should I do next?
+[143] How to do all this independently?
+[144] And I'll tell you, you don't need to reinvent the wheel, because I've already invented it for you.
+[145] You just need to copy this prompt and then follow our already created roadmap.
+[146] Look, what a prompt.
+[147] Conduct a daily English lesson for A1 level.
+[148] One lesson – one day.
+[149] Work step by step.
+=====================================
+

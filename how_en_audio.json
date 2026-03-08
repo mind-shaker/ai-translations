@@ -1,0 +1,1509 @@
+{
+  "source_srt": "how_en.srt",
+  "total_segments": 167,
+  "segments": [
+    {
+      "index": 1,
+      "start": "00:00:00,031",
+      "end": "00:00:07,021",
+      "start_seconds": 0.031,
+      "end_seconds": 7.021,
+      "text": "Today I'll show you how ChatGPT can be transformed into real learning tools, not just a translator.",
+      "audio_path": "audio/how_en_001.wav"
+    },
+    {
+      "index": 2,
+      "start": "00:00:07,102",
+      "end": "00:00:14,533",
+      "start_seconds": 7.102,
+      "end_seconds": 14.533,
+      "text": "Today I won't speak generally, but will use specific prompts and queries that you can also replicate.",
+      "audio_path": "audio/how_en_002.wav"
+    },
+    {
+      "index": 3,
+      "start": "00:00:15,033",
+      "end": "00:00:18,799",
+      "start_seconds": 15.033,
+      "end_seconds": 18.799,
+      "text": "For example, today I will show all this at the A1 level.",
+      "audio_path": "audio/how_en_003.wav"
+    },
+    {
+      "index": 4,
+      "start": "00:00:18,779",
+      "end": "00:00:20,902",
+      "start_seconds": 18.779,
+      "end_seconds": 20.902,
+      "text": "But this video is not only for beginners.",
+      "audio_path": "audio/how_en_004.wav"
+    },
+    {
+      "index": 5,
+      "start": "00:00:20,922",
+      "end": "00:00:25,649",
+      "start_seconds": 20.922,
+      "end_seconds": 25.649,
+      "text": "You will be able to adapt all of this yourself, because we will be building a learning system directly.",
+      "audio_path": "audio/how_en_005.wav"
+    },
+    {
+      "index": 6,
+      "start": "00:00:26,250",
+      "end": "00:00:33,580",
+      "start_seconds": 26.25,
+      "end_seconds": 33.58,
+      "text": "You can find ready-made prompts for your level in the pinned comment under the post in my Telegram channel.",
+      "audio_path": "audio/how_en_006.wav"
+    },
+    {
+      "index": 7,
+      "start": "00:00:33,600",
+      "end": "00:00:35,102",
+      "start_seconds": 33.6,
+      "end_seconds": 35.102,
+      "text": "And our first step is the base.",
+      "audio_path": "audio/how_en_007.wav"
+    },
+    {
+      "index": 8,
+      "start": "00:00:35,243",
+      "end": "00:00:39,268",
+      "start_seconds": 35.243,
+      "end_seconds": 39.268,
+      "text": "You need to know exactly what level of English you have right now.",
+      "audio_path": "audio/how_en_008.wav"
+    },
+    {
+      "index": 9,
+      "start": "00:00:39,449",
+      "end": "00:00:43,875",
+      "start_seconds": 39.449,
+      "end_seconds": 43.875,
+      "text": "So it's not okay to write \"I have something between A2 or B1\".",
+      "audio_path": "audio/how_en_009.wav"
+    },
+    {
+      "index": 10,
+      "start": "00:00:43,855",
+      "end": "00:00:49,580",
+      "start_seconds": 43.855,
+      "end_seconds": 49.58,
+      "text": "You need to know your clear level, because then ChatGPT won't be able to create a program specifically for you.",
+      "audio_path": "audio/how_en_010.wav"
+    },
+    {
+      "index": 11,
+      "start": "00:00:49,981",
+      "end": "00:00:54,045",
+      "start_seconds": 49.981,
+      "end_seconds": 54.045,
+      "text": "It will either be too easy, or too difficult otherwise.",
+      "audio_path": "audio/how_en_011.wav"
+    },
+    {
+      "index": 12,
+      "start": "00:00:54,065",
+      "end": "00:01:01,232",
+      "start_seconds": 54.065,
+      "end_seconds": 61.232,
+      "text": "For this case, I have a ready-made prompt for you, which you can copy and paste into your chat.",
+      "audio_path": "audio/how_en_012.wav"
+    },
+    {
+      "index": 13,
+      "start": "00:01:01,272",
+      "end": "00:01:02,133",
+      "start_seconds": 61.272,
+      "end_seconds": 62.133,
+      "text": "I'll read it now.",
+      "audio_path": "audio/how_en_013.wav"
+    },
+    {
+      "index": 14,
+      "start": "00:01:02,673",
+      "end": "00:01:04,755",
+      "start_seconds": 62.673,
+      "end_seconds": 64.755,
+      "text": "You are an experienced English teacher.",
+      "audio_path": "audio/how_en_014.wav"
+    },
+    {
+      "index": 15,
+      "start": "00:01:05,095",
+      "end": "00:01:07,358",
+      "start_seconds": 65.095,
+      "end_seconds": 67.358,
+      "text": "Help me determine my English level.",
+      "audio_path": "audio/how_en_015.wav"
+    },
+    {
+      "index": 16,
+      "start": "00:01:07,798",
+      "end": "00:01:13,103",
+      "start_seconds": 67.798,
+      "end_seconds": 73.103,
+      "text": "Create a series of tasks that test vocabulary, grammar, reading comprehension, speaking.",
+      "audio_path": "audio/how_en_016.wav"
+    },
+    {
+      "index": 17,
+      "start": "00:01:13,083",
+      "end": "00:01:15,927",
+      "start_seconds": 73.083,
+      "end_seconds": 75.927,
+      "text": "step-by-step, gradually increasing in difficulty.",
+      "audio_path": "audio/how_en_017.wav"
+    },
+    {
+      "index": 18,
+      "start": "00:01:16,187",
+      "end": "00:01:19,511",
+      "start_seconds": 76.187,
+      "end_seconds": 79.511,
+      "text": "After my answers, explain what this means for my level.",
+      "audio_path": "audio/how_en_018.wav"
+    },
+    {
+      "index": 19,
+      "start": "00:01:19,752",
+      "end": "00:01:21,053",
+      "start_seconds": 79.752,
+      "end_seconds": 81.053,
+      "text": "And tell me what it is.",
+      "audio_path": "audio/how_en_019.wav"
+    },
+    {
+      "index": 20,
+      "start": "00:01:21,434",
+      "end": "00:01:26,781",
+      "start_seconds": 81.434,
+      "end_seconds": 86.781,
+      "text": "And after 20-30 minutes, you will have a real understanding of where you are now and where you need to move next.",
+      "audio_path": "audio/how_en_020.wav"
+    },
+    {
+      "index": 21,
+      "start": "00:01:27,041",
+      "end": "00:01:36,493",
+      "start_seconds": 87.041,
+      "end_seconds": 96.493,
+      "text": "And then another critically important point, a mistake I constantly see, is that people open many chats and try to learn in them.",
+      "audio_path": "audio/how_en_021.wav"
+    },
+    {
+      "index": 22,
+      "start": "00:01:36,513",
+      "end": "00:01:42,723",
+      "start_seconds": 96.513,
+      "end_seconds": 102.723,
+      "text": "But it is very important to open only one chat and learn in it.",
+      "audio_path": "audio/how_en_022.wav"
+    },
+    {
+      "index": 23,
+      "start": "00:01:43,324",
+      "end": "00:01:46,809",
+      "start_seconds": 103.324,
+      "end_seconds": 106.809,
+      "text": "Because then this chat remembers everything about you.",
+      "audio_path": "audio/how_en_023.wav"
+    },
+    {
+      "index": 24,
+      "start": "00:01:46,829",
+      "end": "00:01:54,260",
+      "start_seconds": 106.829,
+      "end_seconds": 114.26,
+      "text": "What mistakes you made, what you said wrong, what you've already covered, what needs to be reinforced again.",
+      "audio_path": "audio/how_en_024.wav"
+    },
+    {
+      "index": 25,
+      "start": "00:01:54,660",
+      "end": "00:02:01,450",
+      "start_seconds": 114.66,
+      "end_seconds": 121.45,
+      "text": "And when you open new chats, this memory is not saved, and you seemingly go through the same thing again.",
+      "audio_path": "audio/how_en_025.wav"
+    },
+    {
+      "index": 26,
+      "start": "00:02:01,700",
+      "end": "00:02:05,927",
+      "start_seconds": 121.7,
+      "end_seconds": 125.927,
+      "text": "So, we stick to one chat, one teacher.",
+      "audio_path": "audio/how_en_026.wav"
+    },
+    {
+      "index": 27,
+      "start": "00:02:05,947",
+      "end": "00:02:07,450",
+      "start_seconds": 125.947,
+      "end_seconds": 127.45,
+      "text": "Well, now for our second step.",
+      "audio_path": "audio/how_en_027.wav"
+    },
+    {
+      "index": 28,
+      "start": "00:02:07,490",
+      "end": "00:02:12,698",
+      "start_seconds": 127.49,
+      "end_seconds": 132.698,
+      "text": "Now we will create with you that very teacher who will teach us.",
+      "audio_path": "audio/how_en_028.wav"
+    },
+    {
+      "index": 29,
+      "start": "00:02:13,279",
+      "end": "00:02:17,346",
+      "start_seconds": 133.279,
+      "end_seconds": 137.346,
+      "text": "And let's read this prompt, well, you can copy it later.",
+      "audio_path": "audio/how_en_029.wav"
+    },
+    {
+      "index": 30,
+      "start": "00:02:17,326",
+      "end": "00:02:21,831",
+      "start_seconds": 137.326,
+      "end_seconds": 141.831,
+      "text": "I am learning English, my level is A1, here you can insert your level.",
+      "audio_path": "audio/how_en_030.wav"
+    },
+    {
+      "index": 31,
+      "start": "00:02:22,351",
+      "end": "00:02:29,419",
+      "start_seconds": 142.351,
+      "end_seconds": 149.419,
+      "text": "Teach me like a patient teacher, from simple to complex, in small steps, with constant repetition, without overload.",
+      "audio_path": "audio/how_en_031.wav"
+    },
+    {
+      "index": 32,
+      "start": "00:02:29,999",
+      "end": "00:02:43,333",
+      "start_seconds": 149.999,
+      "end_seconds": 163.333,
+      "text": "Work with me in one chat, remember my typical mistakes, return to them later, first explain, then give practice, then repeat, speak simply and clearly.",
+      "audio_path": "audio/how_en_032.wav"
+    },
+    {
+      "index": 33,
+      "start": "00:02:43,313",
+      "end": "00:02:54,668",
+      "start_seconds": 163.313,
+      "end_seconds": 174.668,
+      "text": "And with this step, you do a very important thing: you don't just open another random chat, you create your own constant, stable teacher.",
+      "audio_path": "audio/how_en_033.wav"
+    },
+    {
+      "index": 34,
+      "start": "00:02:54,688",
+      "end": "00:03:02,098",
+      "start_seconds": 174.688,
+      "end_seconds": 182.098,
+      "text": "So, you've already created your teacher, you've given him a goal, now we're going to practice.",
+      "audio_path": "audio/how_en_034.wav"
+    },
+    {
+      "index": 35,
+      "start": "00:03:02,118",
+      "end": "00:03:08,146",
+      "start_seconds": 182.118,
+      "end_seconds": 188.146,
+      "text": "The next step is to get some ready-made phrases from him that match our level.",
+      "audio_path": "audio/how_en_035.wav"
+    },
+    {
+      "index": 36,
+      "start": "00:03:08,386",
+      "end": "00:03:09,608",
+      "start_seconds": 188.386,
+      "end_seconds": 189.608,
+      "text": "What do we write to him?",
+      "audio_path": "audio/how_en_036.wav"
+    },
+    {
+      "index": 37,
+      "start": "00:03:10,769",
+      "end": "00:03:16,458",
+      "start_seconds": 190.769,
+      "end_seconds": 196.458,
+      "text": "Give me 10 very simple English phrases for A1 level on the topic of introductions, without grammatical explanations.",
+      "audio_path": "audio/how_en_037.wav"
+    },
+    {
+      "index": 38,
+      "start": "00:03:17,039",
+      "end": "00:03:24,370",
+      "start_seconds": 197.039,
+      "end_seconds": 204.37,
+      "text": "Here you can change both the level and the topic for which you want to receive these phrases, but, overall, I think the logic is clear.",
+      "audio_path": "audio/how_en_038.wav"
+    },
+    {
+      "index": 39,
+      "start": "00:03:24,791",
+      "end": "00:03:29,718",
+      "start_seconds": 204.791,
+      "end_seconds": 209.718,
+      "text": "And look, if he sends us, I'll add a screenshot here, he sends it directly.",
+      "audio_path": "audio/how_en_039.wav"
+    },
+    {
+      "index": 40,
+      "start": "00:03:29,938",
+      "end": "00:03:33,604",
+      "start_seconds": 209.938,
+      "end_seconds": 213.604,
+      "text": "Okay, here are 10 very simple phrases for A1 level on the topic of introductions.",
+      "audio_path": "audio/how_en_040.wav"
+    },
+    {
+      "index": 41,
+      "start": "00:03:34,715",
+      "end": "00:03:39,420",
+      "start_seconds": 214.715,
+      "end_seconds": 219.42,
+      "text": "And there's a list there, hello, hi, my name is Anna, and so on.",
+      "audio_path": "audio/how_en_041.wav"
+    },
+    {
+      "index": 42,
+      "start": "00:03:39,440",
+      "end": "00:03:46,227",
+      "start_seconds": 219.44,
+      "end_seconds": 226.227,
+      "text": "In principle, he did his job, he sent you not just words, but whole ready-made phrases like that.",
+      "audio_path": "audio/how_en_042.wav"
+    },
+    {
+      "index": 43,
+      "start": "00:03:46,247",
+      "end": "00:03:54,075",
+      "start_seconds": 226.247,
+      "end_seconds": 234.075,
+      "text": "And I think you should already know that English should be learned not with individual words, but with ready-made language chunks.",
+      "audio_path": "audio/how_en_043.wav"
+    },
+    {
+      "index": 44,
+      "start": "00:03:54,515",
+      "end": "00:03:58,339",
+      "start_seconds": 234.515,
+      "end_seconds": 238.339,
+      "text": "The next stage for us will be listening and a prompt for listening.",
+      "audio_path": "audio/how_en_044.wav"
+    },
+    {
+      "index": 45,
+      "start": "00:03:58,960",
+      "end": "00:04:02,023",
+      "start_seconds": 238.96,
+      "end_seconds": 242.023,
+      "text": "Read these phrases aloud slowly.",
+      "audio_path": "audio/how_en_045.wav"
+    },
+    {
+      "index": 46,
+      "start": "00:04:02,243",
+      "end": "00:04:04,165",
+      "start_seconds": 242.243,
+      "end_seconds": 244.165,
+      "text": "And now I'll show you how it works.",
+      "audio_path": "audio/how_en_046.wav"
+    },
+    {
+      "index": 47,
+      "start": "00:04:04,600",
+      "end": "00:04:05,681",
+      "start_seconds": 244.6,
+      "end_seconds": 245.681,
+      "text": "Listen.",
+      "audio_path": "audio/how_en_047.wav"
+    },
+    {
+      "index": 48,
+      "start": "00:04:05,701",
+      "end": "00:04:10,106",
+      "start_seconds": 245.701,
+      "end_seconds": 250.106,
+      "text": "I will now read them clearly and slowly, so it will be easy for you to repeat.",
+      "audio_path": "audio/how_en_048.wav"
+    },
+    {
+      "index": 49,
+      "start": "00:04:10,486",
+      "end": "00:04:11,447",
+      "start_seconds": 250.486,
+      "end_seconds": 251.447,
+      "text": "Ready?",
+      "audio_path": "audio/how_en_049.wav"
+    },
+    {
+      "index": 50,
+      "start": "00:04:11,467",
+      "end": "00:04:11,987",
+      "start_seconds": 251.467,
+      "end_seconds": 251.987,
+      "text": "Let's go.",
+      "audio_path": "audio/how_en_050.wav"
+    },
+    {
+      "index": 51,
+      "start": "00:04:12,588",
+      "end": "00:04:13,049",
+      "start_seconds": 252.588,
+      "end_seconds": 253.049,
+      "text": "First.",
+      "audio_path": "audio/how_en_051.wav"
+    },
+    {
+      "index": 52,
+      "start": "00:04:13,409",
+      "end": "00:04:14,250",
+      "start_seconds": 253.409,
+      "end_seconds": 254.25,
+      "text": "Hello.",
+      "audio_path": "audio/how_en_052.wav"
+    },
+    {
+      "index": 53,
+      "start": "00:04:14,270",
+      "end": "00:04:14,710",
+      "start_seconds": 254.27,
+      "end_seconds": 254.71,
+      "text": "Second.",
+      "audio_path": "audio/how_en_053.wav"
+    },
+    {
+      "index": 54,
+      "start": "00:04:14,971",
+      "end": "00:04:15,351",
+      "start_seconds": 254.971,
+      "end_seconds": 255.351,
+      "text": "Hi.",
+      "audio_path": "audio/how_en_054.wav"
+    },
+    {
+      "index": 55,
+      "start": "00:04:15,791",
+      "end": "00:04:16,232",
+      "start_seconds": 255.791,
+      "end_seconds": 256.232,
+      "text": "Third.",
+      "audio_path": "audio/how_en_055.wav"
+    },
+    {
+      "index": 56,
+      "start": "00:04:16,252",
+      "end": "00:04:17,633",
+      "start_seconds": 256.252,
+      "end_seconds": 257.633,
+      "text": "My name is Anna.",
+      "audio_path": "audio/how_en_056.wav"
+    },
+    {
+      "index": 57,
+      "start": "00:04:18,034",
+      "end": "00:04:18,614",
+      "start_seconds": 258.034,
+      "end_seconds": 258.614,
+      "text": "Fourth.",
+      "audio_path": "audio/how_en_057.wav"
+    },
+    {
+      "index": 58,
+      "start": "00:04:18,634",
+      "end": "00:04:19,956",
+      "start_seconds": 258.634,
+      "end_seconds": 259.956,
+      "text": "I am Anna.",
+      "audio_path": "audio/how_en_058.wav"
+    },
+    {
+      "index": 59,
+      "start": "00:04:19,976",
+      "end": "00:04:20,456",
+      "start_seconds": 259.976,
+      "end_seconds": 260.456,
+      "text": "Fifth.",
+      "audio_path": "audio/how_en_059.wav"
+    },
+    {
+      "index": 60,
+      "start": "00:04:20,816",
+      "end": "00:04:21,617",
+      "start_seconds": 260.816,
+      "end_seconds": 261.617,
+      "text": "What is your name?",
+      "audio_path": "audio/how_en_060.wav"
+    },
+    {
+      "index": 61,
+      "start": "00:04:22,078",
+      "end": "00:04:22,879",
+      "start_seconds": 262.078,
+      "end_seconds": 262.879,
+      "text": "Sixth.",
+      "audio_path": "audio/how_en_061.wav"
+    },
+    {
+      "index": 62,
+      "start": "00:04:22,899",
+      "end": "00:04:24,180",
+      "start_seconds": 262.899,
+      "end_seconds": 264.18,
+      "text": "Nice to meet you.",
+      "audio_path": "audio/how_en_062.wav"
+    },
+    {
+      "index": 63,
+      "start": "00:04:24,200",
+      "end": "00:04:24,580",
+      "start_seconds": 264.2,
+      "end_seconds": 264.58,
+      "text": "Seventh.",
+      "audio_path": "audio/how_en_063.wav"
+    },
+    {
+      "index": 64,
+      "start": "00:04:24,901",
+      "end": "00:04:26,362",
+      "start_seconds": 264.901,
+      "end_seconds": 266.362,
+      "text": "I am from Ukraine.",
+      "audio_path": "audio/how_en_064.wav"
+    },
+    {
+      "index": 65,
+      "start": "00:04:26,382",
+      "end": "00:04:26,843",
+      "start_seconds": 266.382,
+      "end_seconds": 266.843,
+      "text": "Eighth.",
+      "audio_path": "audio/how_en_065.wav"
+    },
+    {
+      "index": 66,
+      "start": "00:04:27,203",
+      "end": "00:04:28,404",
+      "start_seconds": 267.203,
+      "end_seconds": 268.404,
+      "text": "Where are you from?",
+      "audio_path": "audio/how_en_066.wav"
+    },
+    {
+      "index": 67,
+      "start": "00:04:28,424",
+      "end": "00:04:29,265",
+      "start_seconds": 268.424,
+      "end_seconds": 269.265,
+      "text": "Ninth.",
+      "audio_path": "audio/how_en_067.wav"
+    },
+    {
+      "index": 68,
+      "start": "00:04:29,285",
+      "end": "00:04:30,346",
+      "start_seconds": 269.285,
+      "end_seconds": 270.346,
+      "text": "How are you?",
+      "audio_path": "audio/how_en_068.wav"
+    },
+    {
+      "index": 69,
+      "start": "00:04:30,366",
+      "end": "00:04:30,947",
+      "start_seconds": 270.366,
+      "end_seconds": 270.947,
+      "text": "Tenth.",
+      "audio_path": "audio/how_en_069.wav"
+    },
+    {
+      "index": 70,
+      "start": "00:04:30,967",
+      "end": "00:04:32,228",
+      "start_seconds": 270.967,
+      "end_seconds": 272.228,
+      "text": "I am fine.",
+      "audio_path": "audio/how_en_070.wav"
+    },
+    {
+      "index": 71,
+      "start": "00:04:32,208",
+      "end": "00:04:36,143",
+      "start_seconds": 272.208,
+      "end_seconds": 276.143,
+      "text": "I'll repeat as many times as needed, if you need it, just say and we'll do more.",
+      "audio_path": "audio/how_en_071.wav"
+    },
+    {
+      "index": 72,
+      "start": "00:04:36,663",
+      "end": "00:04:37,885",
+      "start_seconds": 276.663,
+      "end_seconds": 277.885,
+      "text": "Like this.",
+      "audio_path": "audio/how_en_072.wav"
+    },
+    {
+      "index": 73,
+      "start": "00:04:37,905",
+      "end": "00:04:39,066",
+      "start_seconds": 277.905,
+      "end_seconds": 279.066,
+      "text": "Look, what's important here.",
+      "audio_path": "audio/how_en_073.wav"
+    },
+    {
+      "index": 74,
+      "start": "00:04:39,126",
+      "end": "00:04:40,788",
+      "start_seconds": 279.126,
+      "end_seconds": 280.788,
+      "text": "You can listen to this more than once.",
+      "audio_path": "audio/how_en_074.wav"
+    },
+    {
+      "index": 75,
+      "start": "00:04:40,808",
+      "end": "00:04:43,452",
+      "start_seconds": 280.808,
+      "end_seconds": 283.452,
+      "text": "Rather, I really advise you to listen to this more than once.",
+      "audio_path": "audio/how_en_075.wav"
+    },
+    {
+      "index": 76,
+      "start": "00:04:43,812",
+      "end": "00:04:44,253",
+      "start_seconds": 283.812,
+      "end_seconds": 284.253,
+      "text": "For what?",
+      "audio_path": "audio/how_en_076.wav"
+    },
+    {
+      "index": 77,
+      "start": "00:04:44,273",
+      "end": "00:04:53,425",
+      "start_seconds": 284.273,
+      "end_seconds": 293.425,
+      "text": "So that you will fix it in your head, your brain will process it better and will be able to recognize it later in real language, in real live language.",
+      "audio_path": "audio/how_en_077.wav"
+    },
+    {
+      "index": 78,
+      "start": "00:04:53,886",
+      "end": "00:04:59,794",
+      "start_seconds": 293.886,
+      "end_seconds": 299.794,
+      "text": "And it will also be able to then suggest options for these phrases when you speak English yourself.",
+      "audio_path": "audio/how_en_078.wav"
+    },
+    {
+      "index": 79,
+      "start": "00:04:59,874",
+      "end": "00:05:01,856",
+      "start_seconds": 299.874,
+      "end_seconds": 301.856,
+      "text": "So listen as much as possible.",
+      "audio_path": "audio/how_en_079.wav"
+    },
+    {
+      "index": 80,
+      "start": "00:05:02,597",
+      "end": "00:05:12,815",
+      "start_seconds": 302.597,
+      "end_seconds": 312.815,
+      "text": "By the way, regarding how to listen to all this, I will now add a screenshot here, showing what you need to click to voice what was written.",
+      "audio_path": "audio/how_en_080.wav"
+    },
+    {
+      "index": 81,
+      "start": "00:05:13,336",
+      "end": "00:05:15,400",
+      "start_seconds": 313.336,
+      "end_seconds": 315.4,
+      "text": "The next step for us will be reading.",
+      "audio_path": "audio/how_en_081.wav"
+    },
+    {
+      "index": 82,
+      "start": "00:05:15,961",
+      "end": "00:05:21,672",
+      "start_seconds": 315.961,
+      "end_seconds": 321.672,
+      "text": "And not just any random reading, but reading exactly what you just worked with.",
+      "audio_path": "audio/how_en_082.wav"
+    },
+    {
+      "index": 83,
+      "start": "00:05:21,652",
+      "end": "00:05:32,587",
+      "start_seconds": 321.652,
+      "end_seconds": 332.587,
+      "text": "That is, we will once again polish those phrases and expressions that you have already read and heard just now, and what will be our prompt for this.",
+      "audio_path": "audio/how_en_083.wav"
+    },
+    {
+      "index": 84,
+      "start": "00:05:32,888",
+      "end": "00:05:33,929",
+      "start_seconds": 332.888,
+      "end_seconds": 333.929,
+      "text": "Look.",
+      "audio_path": "audio/how_en_084.wav"
+    },
+    {
+      "index": 85,
+      "start": "00:05:33,949",
+      "end": "00:05:37,033",
+      "start_seconds": 333.949,
+      "end_seconds": 337.033,
+      "text": "Let's create a monologue, a story, a text for reading.",
+      "audio_path": "audio/how_en_085.wav"
+    },
+    {
+      "index": 86,
+      "start": "00:05:37,354",
+      "end": "00:05:40,278",
+      "start_seconds": 337.354,
+      "end_seconds": 340.278,
+      "text": "Of six sentences for A1 level with these phrases.",
+      "audio_path": "audio/how_en_086.wav"
+    },
+    {
+      "index": 87,
+      "start": "00:05:40,739",
+      "end": "00:05:50,292",
+      "start_seconds": 340.739,
+      "end_seconds": 350.292,
+      "text": "It should sound like live language, one paragraph, sentences are logically connected, without a list and without separate phrases, so that it can be said in one breath.",
+      "audio_path": "audio/how_en_087.wav"
+    },
+    {
+      "index": 88,
+      "start": "00:05:50,272",
+      "end": "00:05:54,499",
+      "start_seconds": 350.272,
+      "end_seconds": 354.499,
+      "text": "And now I'll show you what it created for me.",
+      "audio_path": "audio/how_en_088.wav"
+    },
+    {
+      "index": 89,
+      "start": "00:05:54,519",
+      "end": "00:05:57,083",
+      "start_seconds": 354.519,
+      "end_seconds": 357.083,
+      "text": "Here I'm adding a screenshot of its answer.",
+      "audio_path": "audio/how_en_089.wav"
+    },
+    {
+      "index": 90,
+      "start": "00:05:57,443",
+      "end": "00:05:58,465",
+      "start_seconds": 357.443,
+      "end_seconds": 358.465,
+      "text": "And what to do with this?",
+      "audio_path": "audio/how_en_090.wav"
+    },
+    {
+      "index": 91,
+      "start": "00:05:58,865",
+      "end": "00:06:01,489",
+      "start_seconds": 358.865,
+      "end_seconds": 361.489,
+      "text": "You can read this aloud to yourself.",
+      "audio_path": "audio/how_en_091.wav"
+    },
+    {
+      "index": 92,
+      "start": "00:06:02,811",
+      "end": "00:06:04,414",
+      "start_seconds": 362.811,
+      "end_seconds": 364.414,
+      "text": "Even more than once.",
+      "audio_path": "audio/how_en_092.wav"
+    },
+    {
+      "index": 93,
+      "start": "00:06:04,434",
+      "end": "00:06:10,183",
+      "start_seconds": 364.434,
+      "end_seconds": 370.183,
+      "text": "You can ask it to voice it again through that button I already showed you.",
+      "audio_path": "audio/how_en_093.wav"
+    },
+    {
+      "index": 94,
+      "start": "00:06:10,563",
+      "end": "00:06:11,445",
+      "start_seconds": 370.563,
+      "end_seconds": 371.445,
+      "text": "And what's important here?",
+      "audio_path": "audio/how_en_094.wav"
+    },
+    {
+      "index": 95,
+      "start": "00:06:11,545",
+      "end": "00:06:17,494",
+      "start_seconds": 371.545,
+      "end_seconds": 377.494,
+      "text": "That your brain perceives what it has heard somewhere before and it starts to recall it.",
+      "audio_path": "audio/how_en_095.wav"
+    },
+    {
+      "index": 96,
+      "start": "00:06:17,474",
+      "end": "00:06:44,898",
+      "start_seconds": 377.474,
+      "end_seconds": 404.898,
+      "text": "And at this moment you are really learning And now we will move on to grammar But I will not ask it now to write down the rules of use for me I will ask it to simply explain it to me And look what we can write to it Explain very simply what I am means without grammatical terms and complex explanations Look what it answers me.",
+      "audio_path": "audio/how_en_096.wav"
+    },
+    {
+      "index": 97,
+      "start": "00:06:45,398",
+      "end": "00:06:48,222",
+      "start_seconds": 405.398,
+      "end_seconds": 408.222,
+      "text": "I am, I am. It's what you say about yourself.",
+      "audio_path": "audio/how_en_097.wav"
+    },
+    {
+      "index": 98,
+      "start": "00:06:48,282",
+      "end": "00:06:53,969",
+      "start_seconds": 408.282,
+      "end_seconds": 413.969,
+      "text": "When you want to say who you are, what you are like, how you feel, you start with I am.",
+      "audio_path": "audio/how_en_098.wav"
+    },
+    {
+      "index": 99,
+      "start": "00:06:53,989",
+      "end": "00:06:55,430",
+      "start_seconds": 413.989,
+      "end_seconds": 415.43,
+      "text": "And real-life examples follow.",
+      "audio_path": "audio/how_en_099.wav"
+    },
+    {
+      "index": 100,
+      "start": "00:06:55,550",
+      "end": "00:06:56,952",
+      "start_seconds": 415.55,
+      "end_seconds": 416.952,
+      "text": "In my opinion, the explanation is great.",
+      "audio_path": "audio/how_en_100.wav"
+    },
+    {
+      "index": 101,
+      "start": "00:06:56,972",
+      "end": "00:07:00,656",
+      "start_seconds": 416.972,
+      "end_seconds": 420.656,
+      "text": "There are no complex terms, no specific rules, no tenses here.",
+      "audio_path": "audio/how_en_101.wav"
+    },
+    {
+      "index": 102,
+      "start": "00:07:01,157",
+      "end": "00:07:06,263",
+      "start_seconds": 421.157,
+      "end_seconds": 426.263,
+      "text": "It's simply logical, clear, and just wonderful at the beginning.",
+      "audio_path": "audio/how_en_102.wav"
+    },
+    {
+      "index": 103,
+      "start": "00:07:06,243",
+      "end": "00:07:10,630",
+      "start_seconds": 426.243,
+      "end_seconds": 430.63,
+      "text": "Of course, if it's a different level, it will be a bit more complicated.",
+      "audio_path": "audio/how_en_103.wav"
+    },
+    {
+      "index": 104,
+      "start": "00:07:10,730",
+      "end": "00:07:14,336",
+      "start_seconds": 430.73,
+      "end_seconds": 434.336,
+      "text": "You'll see all of this in the prompts, but for now, the logic is as follows.",
+      "audio_path": "audio/how_en_104.wav"
+    },
+    {
+      "index": 105,
+      "start": "00:07:14,356",
+      "end": "00:07:17,181",
+      "start_seconds": 434.356,
+      "end_seconds": 437.181,
+      "text": "Well, now comes my favorite stage.",
+      "audio_path": "audio/how_en_105.wav"
+    },
+    {
+      "index": 106,
+      "start": "00:07:17,581",
+      "end": "00:07:20,887",
+      "start_seconds": 437.581,
+      "end_seconds": 440.887,
+      "text": "The stage when we start talking to our chat.",
+      "audio_path": "audio/how_en_106.wav"
+    },
+    {
+      "index": 107,
+      "start": "00:07:21,467",
+      "end": "00:07:26,576",
+      "start_seconds": 441.467,
+      "end_seconds": 446.576,
+      "text": "Again, through this button, we need to switch to conversation mode with it.",
+      "audio_path": "audio/how_en_107.wav"
+    },
+    {
+      "index": 108,
+      "start": "00:07:26,596",
+      "end": "00:07:28,639",
+      "start_seconds": 446.596,
+      "end_seconds": 448.639,
+      "text": "And what do we say?",
+      "audio_path": "audio/how_en_108.wav"
+    },
+    {
+      "index": 109,
+      "start": "00:07:30,205",
+      "end": "00:07:35,130",
+      "start_seconds": 450.205,
+      "end_seconds": 455.13,
+      "text": "Let's create a simple dialogue in English for A1 level with you now.",
+      "audio_path": "audio/how_en_109.wav"
+    },
+    {
+      "index": 110,
+      "start": "00:07:35,771",
+      "end": "00:07:41,877",
+      "start_seconds": 455.771,
+      "end_seconds": 461.877,
+      "text": "You are a new person to me, and ask me simple questions one by one.",
+      "audio_path": "audio/how_en_110.wav"
+    },
+    {
+      "index": 111,
+      "start": "00:07:41,897",
+      "end": "00:07:43,299",
+      "start_seconds": 461.897,
+      "end_seconds": 463.299,
+      "text": "Of course, everything is fine.",
+      "audio_path": "audio/how_en_111.wav"
+    },
+    {
+      "index": 112,
+      "start": "00:07:43,579",
+      "end": "00:07:47,423",
+      "start_seconds": 463.579,
+      "end_seconds": 467.423,
+      "text": "We're starting a simple dialogue, and I'll ask questions one by one.",
+      "audio_path": "audio/how_en_112.wav"
+    },
+    {
+      "index": 113,
+      "start": "00:07:47,924",
+      "end": "00:07:48,945",
+      "start_seconds": 467.924,
+      "end_seconds": 468.945,
+      "text": "First question.",
+      "audio_path": "audio/how_en_113.wav"
+    },
+    {
+      "index": 114,
+      "start": "00:07:48,965",
+      "end": "00:07:50,827",
+      "start_seconds": 468.965,
+      "end_seconds": 470.827,
+      "text": "What is your name?",
+      "audio_path": "audio/how_en_114.wav"
+    },
+    {
+      "index": 115,
+      "start": "00:07:50,847",
+      "end": "00:07:52,549",
+      "start_seconds": 470.847,
+      "end_seconds": 472.549,
+      "text": "What is your name?",
+      "audio_path": "audio/how_en_115.wav"
+    },
+    {
+      "index": 116,
+      "start": "00:07:52,569",
+      "end": "00:07:54,711",
+      "start_seconds": 472.569,
+      "end_seconds": 474.711,
+      "text": "My name is Anastasia.",
+      "audio_path": "audio/how_en_116.wav"
+    },
+    {
+      "index": 117,
+      "start": "00:07:57,020",
+      "end": "00:07:59,723",
+      "start_seconds": 477.02,
+      "end_seconds": 479.723,
+      "text": "Thank you, Anastasia.",
+      "audio_path": "audio/how_en_117.wav"
+    },
+    {
+      "index": 118,
+      "start": "00:07:59,743",
+      "end": "00:08:02,726",
+      "start_seconds": 479.743,
+      "end_seconds": 482.726,
+      "text": "Where are you from?",
+      "audio_path": "audio/how_en_118.wav"
+    },
+    {
+      "index": 119,
+      "start": "00:08:02,987",
+      "end": "00:08:06,190",
+      "start_seconds": 482.987,
+      "end_seconds": 486.19,
+      "text": "I am from Ukraine.",
+      "audio_path": "audio/how_en_119.wav"
+    },
+    {
+      "index": 120,
+      "start": "00:08:06,210",
+      "end": "00:08:07,372",
+      "start_seconds": 486.21,
+      "end_seconds": 487.372,
+      "text": "Good.",
+      "audio_path": "audio/how_en_120.wav"
+    },
+    {
+      "index": 121,
+      "start": "00:08:07,392",
+      "end": "00:08:12,798",
+      "start_seconds": 487.392,
+      "end_seconds": 492.798,
+      "text": "What do you like to do in your free time?",
+      "audio_path": "audio/how_en_121.wav"
+    },
+    {
+      "index": 122,
+      "start": "00:08:13,118",
+      "end": "00:08:17,383",
+      "start_seconds": 493.118,
+      "end_seconds": 497.383,
+      "text": "I like to cook and exercise.",
+      "audio_path": "audio/how_en_122.wav"
+    },
+    {
+      "index": 123,
+      "start": "00:08:17,403",
+      "end": "00:08:18,584",
+      "start_seconds": 497.403,
+      "end_seconds": 498.584,
+      "text": "Sounds good.",
+      "audio_path": "audio/how_en_123.wav"
+    },
+    {
+      "index": 124,
+      "start": "00:08:18,604",
+      "end": "00:08:21,087",
+      "start_seconds": 498.604,
+      "end_seconds": 501.087,
+      "text": "Can you tell me if you are learning English now?",
+      "audio_path": "audio/how_en_124.wav"
+    },
+    {
+      "index": 125,
+      "start": "00:08:22,906",
+      "end": "00:08:31,878",
+      "start_seconds": 502.906,
+      "end_seconds": 511.878,
+      "text": "I think that you got it, that I'm learning English right now.",
+      "audio_path": "audio/how_en_125.wav"
+    },
+    {
+      "index": 126,
+      "start": "00:08:31,898",
+      "end": "00:08:32,318",
+      "start_seconds": 511.898,
+      "end_seconds": 512.318,
+      "text": "Absolutely.",
+      "audio_path": "audio/how_en_126.wav"
+    },
+    {
+      "index": 127,
+      "start": "00:08:32,338",
+      "end": "00:08:33,740",
+      "start_seconds": 512.338,
+      "end_seconds": 513.74,
+      "text": "I just wanted to hear you say it.",
+      "audio_path": "audio/how_en_127.wav"
+    },
+    {
+      "index": 128,
+      "start": "00:08:33,760",
+      "end": "00:08:36,123",
+      "start_seconds": 513.76,
+      "end_seconds": 516.123,
+      "text": "You're doing great.",
+      "audio_path": "audio/how_en_128.wav"
+    },
+    {
+      "index": 129,
+      "start": "00:08:36,143",
+      "end": "00:08:36,363",
+      "start_seconds": 516.143,
+      "end_seconds": 516.363,
+      "text": "Keep it up.",
+      "audio_path": "audio/how_en_129.wav"
+    },
+    {
+      "index": 130,
+      "start": "00:08:36,383",
+      "end": "00:08:36,724",
+      "start_seconds": 516.383,
+      "end_seconds": 516.724,
+      "text": "Here.",
+      "audio_path": "audio/how_en_130.wav"
+    },
+    {
+      "index": 131,
+      "start": "00:08:36,924",
+      "end": "00:08:38,827",
+      "start_seconds": 516.924,
+      "end_seconds": 518.827,
+      "text": "This is roughly how it happens.",
+      "audio_path": "audio/how_en_131.wav"
+    },
+    {
+      "index": 132,
+      "start": "00:08:39,267",
+      "end": "00:08:51,563",
+      "start_seconds": 519.267,
+      "end_seconds": 531.563,
+      "text": "Look, if at some point it says something incorrectly, you can just give it a clarification regarding that, or ask it to break down the questions one by one, because sometimes it can give them out as a whole list.",
+      "audio_path": "audio/how_en_132.wav"
+    },
+    {
+      "index": 133,
+      "start": "00:08:52,387",
+      "end": "00:09:05,469",
+      "start_seconds": 532.387,
+      "end_seconds": 545.469,
+      "text": "But overall, look, the conversation is built coolly, you can also ask it, for example, to translate each question or to note any mistakes you make when you answer, so use it.",
+      "audio_path": "audio/how_en_133.wav"
+    },
+    {
+      "index": 134,
+      "start": "00:09:05,489",
+      "end": "00:09:16,167",
+      "start_seconds": 545.489,
+      "end_seconds": 556.167,
+      "text": "And after that, we will practice writing, yes, you heard that right, I always tell everyone, the more you write, the better you speak, so here's a prompt for writing.",
+      "audio_path": "audio/how_en_134.wav"
+    },
+    {
+      "index": 135,
+      "start": "00:09:17,800",
+      "end": "00:09:47,227",
+      "start_seconds": 557.8,
+      "end_seconds": 587.227,
+      "text": "Help me write three simple sentences about myself in English for A1 level. Now I will show you what it replied, so look, I'm adding. First, it wrote me templates that I can use. And then it gives \"your turn\" type of prompt, meaning for you to write these three sentences to it. In this case, when you write your sentences to it, it will correct you if something is wrong, or conversely, praise you if you wrote everything correctly. And now a very important nuance.",
+      "audio_path": "audio/how_en_135.wav"
+    },
+    {
+      "index": 136,
+      "start": "00:09:47,547",
+      "end": "00:09:51,791",
+      "start_seconds": 587.547,
+      "end_seconds": 591.791,
+      "text": "After each session, you need to record your progress.",
+      "audio_path": "audio/how_en_136.wav"
+    },
+    {
+      "index": 137,
+      "start": "00:09:51,871",
+      "end": "00:09:57,918",
+      "start_seconds": 591.871,
+      "end_seconds": 597.918,
+      "text": "You need to help this machine record everything you write to it.",
+      "audio_path": "audio/how_en_137.wav"
+    },
+    {
+      "index": 138,
+      "start": "00:09:57,958",
+      "end": "00:10:00,780",
+      "start_seconds": 597.958,
+      "end_seconds": 600.78,
+      "text": "Also a prompt.",
+      "audio_path": "audio/how_en_138.wav"
+    },
+    {
+      "index": 139,
+      "start": "00:10:00,800",
+      "end": "00:10:07,327",
+      "start_seconds": 600.8,
+      "end_seconds": 607.327,
+      "text": "Make a short summary of the lesson we covered, what mistakes are repeated, to review next time.",
+      "audio_path": "audio/how_en_139.wav"
+    },
+    {
+      "index": 140,
+      "start": "00:10:08,008",
+      "end": "00:10:09,489",
+      "start_seconds": 608.008,
+      "end_seconds": 609.489,
+      "text": "No more than 100 words.",
+      "audio_path": "audio/how_en_140.wav"
+    },
+    {
+      "index": 141,
+      "start": "00:10:09,509",
+      "end": "00:10:21,877",
+      "start_seconds": 609.509,
+      "end_seconds": 621.877,
+      "text": "Look, you can insert all of this both at the end of this lesson and at the beginning of the next, so that you don't forget what you've already covered and can pay attention to what you need to work on more.",
+      "audio_path": "audio/how_en_141.wav"
+    },
+    {
+      "index": 142,
+      "start": "00:10:22,117",
+      "end": "00:10:24,642",
+      "start_seconds": 622.117,
+      "end_seconds": 624.642,
+      "text": "And now there will probably be a very logical question from you.",
+      "audio_path": "audio/how_en_142.wav"
+    },
+    {
+      "index": 143,
+      "start": "00:10:24,742",
+      "end": "00:10:27,747",
+      "start_seconds": 624.742,
+      "end_seconds": 627.747,
+      "text": "Okay, I practiced today, what should I do next?",
+      "audio_path": "audio/how_en_143.wav"
+    },
+    {
+      "index": 144,
+      "start": "00:10:27,807",
+      "end": "00:10:30,653",
+      "start_seconds": 627.807,
+      "end_seconds": 630.653,
+      "text": "How to do all this independently?",
+      "audio_path": "audio/how_en_144.wav"
+    },
+    {
+      "index": 145,
+      "start": "00:10:30,773",
+      "end": "00:10:35,361",
+      "start_seconds": 630.773,
+      "end_seconds": 635.361,
+      "text": "And I'll tell you, you don't need to reinvent the wheel, because I've already invented it for you.",
+      "audio_path": "audio/how_en_145.wav"
+    },
+    {
+      "index": 146,
+      "start": "00:10:36,067",
+      "end": "00:10:41,835",
+      "start_seconds": 636.067,
+      "end_seconds": 641.835,
+      "text": "You just need to copy this prompt and then follow our already created roadmap.",
+      "audio_path": "audio/how_en_146.wav"
+    },
+    {
+      "index": 147,
+      "start": "00:10:41,855",
+      "end": "00:10:42,820",
+      "start_seconds": 641.855,
+      "end_seconds": 642.82,
+      "text": "Look, what a prompt.",
+      "audio_path": "audio/how_en_147.wav"
+    },
+    {
+      "index": 148,
+      "start": "00:10:44,099",
+      "end": "00:10:46,804",
+      "start_seconds": 644.099,
+      "end_seconds": 646.804,
+      "text": "Conduct a daily English lesson for A1 level.",
+      "audio_path": "audio/how_en_148.wav"
+    },
+    {
+      "index": 149,
+      "start": "00:10:47,265",
+      "end": "00:10:48,907",
+      "start_seconds": 647.265,
+      "end_seconds": 648.907,
+      "text": "One lesson – one day.",
+      "audio_path": "audio/how_en_149.wav"
+    },
+    {
+      "index": 150,
+      "start": "00:10:49,208",
+      "end": "00:10:50,530",
+      "start_seconds": 649.208,
+      "end_seconds": 650.53,
+      "text": "Work step-by-step.",
+      "audio_path": "audio/how_en_150.wav"
+    },
+    {
+      "index": 151,
+      "start": "00:10:51,031",
+      "end": "00:10:55,239",
+      "start_seconds": 651.031,
+      "end_seconds": 655.239,
+      "text": "Start with a short recap of what we've already covered – 2-3 minutes.",
+      "audio_path": "audio/how_en_151.wav"
+    },
+    {
+      "index": 152,
+      "start": "00:10:55,820",
+      "end": "00:10:59,967",
+      "start_seconds": 655.82,
+      "end_seconds": 659.967,
+      "text": "In the recap, use the same words and constructions as before.",
+      "audio_path": "audio/how_en_152.wav"
+    },
+    {
+      "index": 153,
+      "start": "00:11:00,267",
+      "end": "00:11:03,112",
+      "start_seconds": 660.267,
+      "end_seconds": 663.112,
+      "text": "After each step, stop and wait for my \"Next\".",
+      "audio_path": "audio/how_en_153.wav"
+    },
+    {
+      "index": 154,
+      "start": "00:11:03,774",
+      "end": "00:11:22,303",
+      "start_seconds": 663.774,
+      "end_seconds": 682.303,
+      "text": "Lesson structure Short recap Short explanation of the new topic 8-10 simple phrases, read them aloud, a short coherent text, a simple explanation of the meaning of constructions, a short dialogue, three sentences to write, speak simply and don't overload.",
+      "audio_path": "audio/how_en_154.wav"
+    },
+    {
+      "index": 155,
+      "start": "00:11:22,503",
+      "end": "00:11:26,349",
+      "start_seconds": 682.503,
+      "end_seconds": 686.349,
+      "text": "And that's all, ChatGPT will guide you further like a real teacher.",
+      "audio_path": "audio/how_en_155.wav"
+    },
+    {
+      "index": 156,
+      "start": "00:11:26,749",
+      "end": "00:11:28,652",
+      "start_seconds": 686.749,
+      "end_seconds": 688.652,
+      "text": "I think it's just magic.",
+      "audio_path": "audio/how_en_156.wav"
+    },
+    {
+      "index": 157,
+      "start": "00:11:28,632",
+      "end": "00:11:31,976",
+      "start_seconds": 688.632,
+      "end_seconds": 691.976,
+      "text": "and regarding these prompts.",
+      "audio_path": "audio/how_en_157.wav"
+    },
+    {
+      "index": 158,
+      "start": "00:11:32,576",
+      "end": "00:11:35,179",
+      "start_seconds": 692.576,
+      "end_seconds": 695.179,
+      "text": "They are written under a general learning system.",
+      "audio_path": "audio/how_en_158.wav"
+    },
+    {
+      "index": 159,
+      "start": "00:11:35,199",
+      "end": "00:11:44,690",
+      "start_seconds": 695.199,
+      "end_seconds": 704.69,
+      "text": "If you need a specific topic or specifically want to review a grammatical structure and so on, you can, of course, adjust it.",
+      "audio_path": "audio/how_en_159.wav"
+    },
+    {
+      "index": 160,
+      "start": "00:11:44,710",
+      "end": "00:11:45,731",
+      "start_seconds": 704.71,
+      "end_seconds": 705.731,
+      "text": "So, adapt it.",
+      "audio_path": "audio/how_en_160.wav"
+    },
+    {
+      "index": 161,
+      "start": "00:11:46,111",
+      "end": "00:11:56,783",
+      "start_seconds": 706.111,
+      "end_seconds": 716.783,
+      "text": "ChatGPT is not a tutor, but with a well-structured system, you can turn it into a truly working trainer.",
+      "audio_path": "audio/how_en_161.wav"
+    },
+    {
+      "index": 162,
+      "start": "00:11:57,893",
+      "end": "00:12:05,949",
+      "start_seconds": 717.893,
+      "end_seconds": 725.949,
+      "text": "So the main thing here is to create this very system, so that it's not chaotic, but broken down like we did today.",
+      "audio_path": "audio/how_en_162.wav"
+    },
+    {
+      "index": 163,
+      "start": "00:12:05,969",
+      "end": "00:12:08,754",
+      "start_seconds": 725.969,
+      "end_seconds": 728.754,
+      "text": "Because that's how our brain absorbs with all its pores.",
+      "audio_path": "audio/how_en_163.wav"
+    },
+    {
+      "index": 164,
+      "start": "00:12:09,235",
+      "end": "00:12:14,285",
+      "start_seconds": 729.235,
+      "end_seconds": 734.285,
+      "text": "So, if you found it useful, interesting, and liked it, I would be very grateful for your support.",
+      "audio_path": "audio/how_en_164.wav"
+    },
+    {
+      "index": 165,
+      "start": "00:12:14,305",
+      "end": "00:12:18,433",
+      "start_seconds": 734.305,
+      "end_seconds": 738.433,
+      "text": "Like, comment, subscribe.",
+      "audio_path": "audio/how_en_165.wav"
+    },
+    {
+      "index": 166,
+      "start": "00:12:18,886",
+      "end": "00:12:31,458",
+      "start_seconds": 738.886,
+      "end_seconds": 751.458,
+      "text": "I want to remind you that under this video and in the pinned comment, you will see a link to my Telegram channel, where all prompts for each level will be collected.",
+      "audio_path": "audio/how_en_166.wav"
+    },
+    {
+      "index": 167,
+      "start": "00:12:32,040",
+      "end": "00:12:32,541",
+      "start_seconds": 752.04,
+      "end_seconds": 752.541,
+      "text": "Bye!",
+      "audio_path": "audio/how_en_167.wav"
+    }
+  ]
+}

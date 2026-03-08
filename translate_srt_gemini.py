@@ -3,10 +3,20 @@ import time
 from google import genai
 from google.genai import types
 
-INPUT_FILE = "how_corrected.srt"
-OUTPUT_FILE = "how_en.srt"
+import sys
+import os
 
-GEMINI_API_KEY = "AIzaSyAQ6Q4LH0ri6nuRSHLY31F-vYhts5yWqd4"
+INPUT_FILE = sys.argv[1] if len(sys.argv) > 1 else "how_corrected.srt"
+OUTPUT_FILE = sys.argv[2] if len(sys.argv) > 2 else "how_en.srt"
+
+KEY_FILE = ".gemini_api_key"
+if os.path.exists(KEY_FILE):
+    with open(KEY_FILE, "r") as f:
+        GEMINI_API_KEY = f.read().strip()
+else:
+    print(f"Помилка: файл {KEY_FILE} з API ключем не знайдено!")
+    sys.exit(1)
+
 MODEL = "models/gemini-2.5-flash"
 
 BATCH_SIZE = 50
@@ -17,9 +27,10 @@ REQUEST_DELAY = 3
 SYSTEM_PROMPT = (
     "Ти перекладач субтитрів. "
     "Користувач надсилає тобі SRT файл українською мовою. "
-    "Перекладай текст субтитрів на англійську мову зберігаючи формат SRT. "
-    "Якщо в тексті вже є англійські слова або фрази — залишай їх без змін. "
-    "Не змінюй таймінги. Не змінюй кількість сегментів. Не додавай коментарів."
+    "Перекладай текст субтитрів на англійську мову. Якщо в тексті вже є англійські слова або фрази — залишай їх без змін. "
+    "КРИТИЧНО ВАЖЛИВО: Ти ПОВИНЕН повернути рівно стільки ж сегментів, скільки отримав. "
+    "КРИТИЧНО ВАЖЛИВО: Ти ПОВИНЕН зберегти оригінальні індекси та таймкоди (час початку і кінця) для кожного сегмента БЕЗ ЖОДНИХ ЗМІН. "
+    "Повертай тільки валідний SRT формат, і нічого більше. Зберігай оригінальну структуру (Індекс -> Час -> Текст -> Пустий рядок)."
 )
 
 
@@ -146,17 +157,20 @@ def main():
 
         print(f"Вибірка {batch_num}: сегменти #{batch[0]['index']}–#{batch[-1]['index']} ({len(batch)} шт.)...")
 
-        result = call_gemini(client, batch)
+        max_attempts = 3
+        success = False
 
-        if result is None:
-            print(f"  Не вдалось — записую оригінал без змін")
-            output_segments.extend(batch)
-        else:
+        for attempt in range(1, max_attempts + 1):
+            if attempt > 1:
+                print(f"  Повторна спроба {attempt}/{max_attempts}...")
+
+            result = call_gemini(client, batch)
+
+            if result is None:
+                continue
+
             translated = parse_response(result)
-            if len(translated) != len(batch):
-                print(f"  Увага: отримано {len(translated)} сегментів замість {len(batch)} — записую оригінал")
-                output_segments.extend(batch)
-            else:
+            if len(translated) == len(batch):
                 for orig, trans in zip(batch, translated):
                     output_segments.append({
                         "index": orig["index"],
@@ -165,6 +179,31 @@ def main():
                         "text": trans["text"]
                     })
                 print(f"  Готово ✓")
+                success = True
+                break
+            else:
+                print(f"  Увага: отримано {len(translated)} сегментів замість {len(batch)} (Спроба {attempt}/{max_attempts})")
+                
+                with open("gemini_mismatch_log.txt", "a", encoding="utf-8") as log_f:
+                    log_f.write(f"=== MISMATCH IN BATCH {batch_num} (Attempt {attempt}) ===\n")
+                    log_f.write(f"Expected: {len(batch)} segments\n")
+                    log_f.write(f"Got: {len(translated)} segments\n\n")
+                    
+                    log_f.write("--- ORIGINAL SENT TO GEMINI ---\n")
+                    for s in batch:
+                        log_f.write(f"[{s['index']}] {s['text']}\n")
+                        
+                    log_f.write("\n--- RETURNED BY GEMINI ---\n")
+                    for s in translated:
+                        log_f.write(f"[{s['index']}] {s['text']}\n")
+                    log_f.write("=====================================\n\n")
+                
+                if attempt < max_attempts:
+                    time.sleep(REQUEST_DELAY)
+
+        if not success:
+            print(f"  Всі {max_attempts} спроби вичерпано. Записую оригінал без змін.")
+            output_segments.extend(batch)
 
         current_idx = next_idx
         if current_idx < total:

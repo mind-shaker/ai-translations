@@ -1,0 +1,672 @@
+1
+00:00:00,000 --> 00:00:06,000
+Today I will show you how to turn ChatGPT into real learning tools, not just a translator.
+
+2
+00:00:06,000 --> 00:00:15,000
+And today I will not speak generally, but will use specific prompts and queries that you will also be able to replicate.
+
+3
+00:00:15,000 --> 00:00:21,000
+For example, today I will show all of this on the A1 level, but this video is not just for beginners.
+
+4
+00:00:21,000 --> 00:00:26,000
+You will also be able to adapt all of this for yourselves, because we will be building a direct learning system.
+
+5
+00:00:26,000 --> 00:00:33,000
+And you can find ready-made prompts for your level in the pinned comment under the singularity on my Telegram channel.
+
+6
+00:00:33,000 --> 00:00:35,000
+And our first step is the foundation.
+
+7
+00:00:35,000 --> 00:00:39,000
+You need to know precisely what level of English you currently have.
+
+8
+00:00:39,000 --> 00:00:43,000
+So it's not okay to write that I have something between A2 or B1.
+
+9
+00:00:43,000 --> 00:00:49,000
+You need to know your clear level, because then ChatGPT won't be able to create a program specifically for you.
+
+10
+00:00:49,000 --> 00:00:53,000
+It will either be something too easy, or too difficult on the contrary.
+
+11
+00:00:54,000 --> 00:01:01,000
+For this case, I have a ready-made prompt for you that you can copy and paste into your chat.
+
+12
+00:01:01,000 --> 00:01:02,000
+Now I'll read it out.
+
+13
+00:01:02,000 --> 00:01:05,000
+You are an experienced English language teacher.
+
+14
+00:01:05,000 --> 00:01:07,000
+Help me determine my English level.
+
+15
+00:01:07,000 --> 00:01:10,000
+Create a series of tasks that check.
+
+16
+00:01:10,000 --> 00:01:13,000
+Vocabulary, grammar, text comprehension, speaking.
+
+17
+00:01:13,000 --> 00:01:16,000
+Go step-by-step, gradually making it more difficult.
+
+18
+00:01:16,000 --> 00:01:19,000
+After my answers, explain what it means for my level.
+
+19
+00:01:19,000 --> 00:01:21,000
+And tell me what it is.
+
+20
+00:01:21,000 --> 00:01:27,000
+And in 20-30 minutes, you will have a real understanding of where you are now and where you need to move next.
+
+21
+00:01:27,000 --> 00:01:36,000
+And next, another critically important point, a mistake I constantly see, is that people open many chats and try to learn in them.
+
+22
+00:01:36,000 --> 00:01:42,000
+But it is very important to open only one chat and learn specifically in it.
+
+23
+00:01:42,000 --> 00:01:46,000
+Because then this chat remembers everything about you.
+
+24
+00:01:46,000 --> 00:01:54,000
+What mistakes you made, what you said wrong, what you've already covered, what needs to be reinforced again.
+
+25
+00:01:54,000 --> 00:02:01,000
+But when you open new chats, this memory is not saved, and you seemingly go through the same thing again.
+
+26
+00:02:01,000 --> 00:02:06,000
+So we fix on one chat, one teacher.
+
+27
+00:02:06,000 --> 00:02:08,000
+Well then, now our second step.
+
+28
+00:02:08,000 --> 00:02:13,000
+Now we will create with you that very teacher who will teach us.
+
+29
+00:02:13,000 --> 00:02:17,000
+And let's read this prompt, but you can copy it later.
+
+30
+00:02:17,000 --> 00:02:20,000
+I am learning English, my level is A1.
+
+31
+00:02:20,000 --> 00:02:22,000
+Here you can insert your level.
+
+32
+00:02:22,000 --> 00:02:24,000
+Teach me as a patient teacher.
+
+33
+00:02:24,000 --> 00:02:30,000
+From simple to complex, in short steps, with constant repetition, without overloading.
+
+34
+00:02:30,000 --> 00:02:32,000
+Work with me in one chat.
+
+35
+00:02:32,000 --> 00:02:34,000
+Remember her typical mistakes.
+
+36
+00:02:34,000 --> 00:02:36,000
+Return to them later.
+
+37
+00:02:36,000 --> 00:02:43,000
+First explain, then give practice, then repeat, speak simply and clearly.
+
+38
+00:02:43,000 --> 00:02:46,000
+And with this step, you are doing a really very important thing.
+
+39
+00:02:46,000 --> 00:02:54,000
+You're not just opening another random chat, you're creating your permanent, dedicated teacher.
+
+40
+00:02:54,000 --> 00:03:02,000
+Well, you've already created your teacher, you've given them a goal, now let's move on to practice.
+
+41
+00:03:02,000 --> 00:03:08,000
+The next step is to get certain ready-made phrases from him that match our level.
+
+42
+00:03:08,000 --> 00:03:10,000
+What do we write to him?
+
+43
+00:03:10,000 --> 00:03:17,000
+Give me 10 very simple English phrases for A1 level on the topic of introductions, without grammatical explanations.
+
+44
+00:03:17,000 --> 00:03:25,000
+Look, here you can change both the level and the topic for which you want to receive these phrases, but overall, I think the logic is clear.
+
+45
+00:03:25,000 --> 00:03:31,000
+And look what he will send us, I will add a screenshot here, he sends it directly.
+
+46
+00:03:31,000 --> 00:03:35,000
+Okay, here are some very simple phrases for A1 level on the topic of introductions.
+
+47
+00:03:35,000 --> 00:03:39,000
+And there's a list: hello, hi, my name is Anna, and so on.
+
+48
+00:03:39,000 --> 00:03:46,000
+Basically, he did his job, he sent you not just words, but whole ready-made phrases.
+
+49
+00:03:46,000 --> 00:03:54,000
+And I think you should already know that English really needs to be learned not with separate words, but with ready-made language chunks.
+
+50
+00:03:54,000 --> 00:03:58,000
+The next stage for us will be listening and a prompt for listening.
+
+51
+00:03:58,000 --> 00:04:02,000
+Read these phrases aloud slowly.
+
+52
+00:04:02,000 --> 00:04:04,000
+And now I will show you how it works.
+
+53
+00:04:04,000 --> 00:04:10,000
+Of course. I will read them clearly and slowly now, so it's easy for you to repeat.
+
+54
+00:04:10,000 --> 00:04:12,000
+Ready? Let's go.
+
+55
+00:04:12,000 --> 00:04:14,000
+First. Hello.
+
+56
+00:04:14,000 --> 00:04:16,000
+Second. Hi.
+
+57
+00:04:16,000 --> 00:04:18,000
+Third. My name is Anna.
+
+58
+00:04:18,000 --> 00:04:20,000
+Fourth. I am Anna.
+
+59
+00:04:20,000 --> 00:04:22,000
+Fifth. What is your name?
+
+60
+00:04:22,000 --> 00:04:24,000
+Sixth. Nice to meet you.
+
+61
+00:04:24,000 --> 00:04:26,000
+Seventh. I am from Ukraine.
+
+62
+00:04:26,000 --> 00:04:28,000
+Eighth. Where are you from?
+
+63
+00:04:28,000 --> 00:04:30,000
+Ninth. How are you?
+
+64
+00:04:30,000 --> 00:04:32,000
+Tenth. I am fine.
+
+65
+00:04:32,000 --> 00:04:34,000
+Repeat as many times as needed.
+
+66
+00:04:34,000 --> 00:04:36,000
+If needed, tell him again.
+
+67
+00:04:36,000 --> 00:04:38,000
+Like this.
+
+68
+00:04:38,000 --> 00:04:41,000
+Look, here's what's important. You can listen to this once.
+
+69
+00:04:41,000 --> 00:04:44,000
+I genuinely advise you not to listen to this only once.
+
+70
+00:04:44,000 --> 00:04:47,000
+Why? So that you will fix it in your mind.
+
+71
+00:04:47,000 --> 00:04:50,000
+Your brain will process it better.
+
+72
+00:04:50,000 --> 00:04:54,000
+And will then be able to recognize it in real language, in real-life language.
+
+73
+00:04:54,000 --> 00:05:00,000
+And will also be able to then suggest options for these phrases when you speak English yourself.
+
+74
+00:05:00,000 --> 00:05:02,000
+So listen as much as possible.
+
+75
+00:05:02,000 --> 00:05:09,000
+By the way, regarding how to listen to all this, I'll add a screenshot right here now.
+
+76
+00:05:09,000 --> 00:05:13,000
+So you need to click to voice what was written.
+
+77
+00:05:13,000 --> 00:05:16,000
+Our next step will be reading.
+
+78
+00:05:16,000 --> 00:05:22,000
+And not just any random reading, but reading exactly what you just worked with.
+
+79
+00:05:22,000 --> 00:05:33,000
+That is, we will once again polish those phrases and expressions that you have just read and heard, and what our prompt for this will be.
+
+80
+00:05:33,000 --> 00:05:34,000
+Look.
+
+81
+00:05:34,000 --> 00:05:37,000
+Let's create a monologue story, a text for reading.
+
+82
+00:05:37,000 --> 00:05:40,000
+Make it six sentences for A1 level with these phrases.
+
+83
+00:05:40,000 --> 00:05:50,000
+It should sound like natural language, one paragraph, sentences logically connected, without a list and without separate phrases, so it can be said in one breath.
+
+84
+00:05:50,000 --> 00:05:54,000
+And now I will show you what it created for me.
+
+85
+00:05:54,000 --> 00:05:57,000
+Here I'm adding a screenshot of its answer.
+
+86
+00:05:57,000 --> 00:05:59,000
+And what to do with this.
+
+87
+00:05:59,000 --> 00:06:02,000
+You can read this aloud to yourself.
+
+88
+00:06:02,000 --> 00:06:04,000
+You can even do it more than once.
+
+89
+00:06:04,000 --> 00:06:10,000
+You can ask it to voice it again using that button I already showed you.
+
+90
+00:06:10,000 --> 00:06:17,000
+And it's also important here that your brain perceives what it has heard somewhere before and starts recalling it.
+
+91
+00:06:17,000 --> 00:06:20,000
+And at this moment, you are truly learning.
+
+92
+00:06:20,000 --> 00:06:24,000
+And now we will move on to grammar.
+
+93
+00:06:24,000 --> 00:06:28,000
+But I won't ask it now to write down the rules of use for me.
+
+94
+00:06:28,000 --> 00:06:31,000
+I will try to make it just explain it to me.
+
+95
+00:06:31,000 --> 00:06:34,000
+And look what we can write to it.
+
+96
+00:06:43,000 --> 00:06:45,000
+Look what it answers me.
+
+97
+00:06:45,000 --> 00:06:48,000
+I am, я є – this is what you say about yourself.
+
+98
+00:06:48,000 --> 00:06:54,000
+When you want to say who you are, what you are like, how you feel, you start with I am.
+
+99
+00:06:54,000 --> 00:06:56,000
+And life examples follow.
+
+100
+00:06:56,000 --> 00:06:58,000
+In my opinion, the explanation is great.
+
+101
+00:06:58,000 --> 00:07:06,000
+There are no complex terms here, it's just logically clear and simply wonderful at the beginning.
+
+102
+00:07:06,000 --> 00:07:11,000
+Of course, if it's a different level, it will be a bit more complicated.
+
+103
+00:07:11,000 --> 00:07:13,000
+You will see all of this in the promos.
+
+104
+00:07:13,000 --> 00:07:15,000
+But for now, the logic is as follows.
+
+105
+00:07:15,000 --> 00:07:17,000
+Well then, now it's time for my favorite stage.
+
+106
+00:07:17,000 --> 00:07:21,000
+The stage when we start talking to our chat.
+
+107
+00:07:21,000 --> 00:07:26,000
+Again, through this button, we need to switch to conversation mode with it.
+
+108
+00:07:26,000 --> 00:07:28,000
+And what do we say?
+
+109
+00:07:30,000 --> 00:07:36,000
+Let's now create a simple dialogue with you in English for A1 level.
+
+110
+00:07:36,000 --> 00:07:40,000
+You are a new person to me, and ask me simple questions in turn.
+
+111
+00:07:42,000 --> 00:07:44,000
+Of course, everything is fine.
+
+112
+00:07:44,000 --> 00:07:48,000
+Let's start a simple dialogue, and I'll ask questions in turn.
+
+113
+00:07:48,000 --> 00:07:50,000
+First question.
+
+114
+00:07:50,000 --> 00:07:52,000
+What is your name?
+
+115
+00:08:01,000 --> 00:08:04,000
+I am from Ukraine.
+
+116
+00:08:10,000 --> 00:08:14,000
+I like to cook and work out.
+
+117
+00:08:23,000 --> 00:08:28,000
+I think you understand that I am currently learning English.
+
+118
+00:08:30,000 --> 00:08:32,000
+Of course.
+
+119
+00:08:32,000 --> 00:08:34,000
+I just wanted to see that you understand.
+
+120
+00:08:34,000 --> 00:08:36,000
+You're doing well.
+
+121
+00:09:01,000 --> 00:09:05,000
+When you answer, use it.
+
+122
+00:09:17,000 --> 00:09:23,000
+Help me write three simple sentences about myself in English for A1 level.
+
+123
+00:09:23,000 --> 00:09:27,000
+Now I'll show you what it answered me.
+
+124
+00:09:27,000 --> 00:09:29,000
+I'm adding.
+
+125
+00:09:29,000 --> 00:09:33,000
+It has templates that I can use.
+
+126
+00:09:33,000 --> 00:09:37,000
+And then it gives you a "your turn" type of prompt, meaning you should write these three sentences to it.
+
+127
+00:09:37,000 --> 00:09:45,000
+In this case, when you write your sentences to it, it will correct you if something is wrong.
+
+128
+00:09:45,000 --> 00:09:49,000
+Or, on the contrary, praise you if you wrote everything correctly.
+
+129
+00:09:49,000 --> 00:09:51,000
+And now a very important nuance.
+
+130
+00:09:51,000 --> 00:09:55,000
+After each session, you must record your progress.
+
+131
+00:09:55,000 --> 00:10:00,000
+You must help this machine also with a prompt.
+
+132
+00:10:00,000 --> 00:10:08,000
+Make a short summary of the lesson we covered, what mistakes are repeated, to review next time.
+
+133
+00:10:08,000 --> 00:10:10,000
+No more than 100 words.
+
+134
+00:10:10,000 --> 00:10:24,000
+Look, you can insert all of this both at the end of this lesson and at the beginning of the next, so you don't forget what you've already covered and can pay attention to what you need to work on more.
+
+135
+00:10:24,000 --> 00:10:32,000
+And now there will be a very logical question about what to do next after you've practiced, how to do all this independently.
+
+136
+00:10:32,000 --> 00:10:38,000
+And I'll tell you, you don't need to reinvent the wheel, because I've already invented it for you.
+
+137
+00:10:38,000 --> 00:10:44,000
+You just need to copy this prompt and then follow our already created road map.
+
+138
+00:10:44,000 --> 00:10:46,000
+Look, what a prompt.
+
+139
+00:10:46,000 --> 00:10:50,000
+Conduct a daily English lesson for A1 level.
+
+140
+00:10:50,000 --> 00:10:52,000
+One lesson, one day.
+
+141
+00:10:52,000 --> 00:10:54,000
+Work step-by-step.
+
+142
+00:10:54,000 --> 00:10:56,000
+Two-three minutes.
+
+143
+00:10:56,000 --> 00:11:00,000
+In repetition, use the same words and constructions as before.
+
+144
+00:11:00,000 --> 00:11:04,000
+After each step, stop and wait for my "next".
+
+145
+00:11:04,000 --> 00:11:06,000
+Lesson structure: Short review.
+
+146
+00:11:06,000 --> 00:11:08,000
+Short explanation of a new topic.
+
+147
+00:11:08,000 --> 00:11:10,000
+Eight-ten simple phrases.
+
+148
+00:11:10,000 --> 00:11:12,000
+Read them aloud.
+
+149
+00:11:12,000 --> 00:11:14,000
+Short coherent text.
+
+150
+00:11:14,000 --> 00:11:16,000
+Simple explanation of the meaning of constructions.
+
+151
+00:11:16,000 --> 00:11:18,000
+A short dialogue.
+
+152
+00:11:18,000 --> 00:11:20,000
+Three sentences of writing.
+
+153
+00:11:20,000 --> 00:11:22,000
+Speak simply and don't overload.
+
+154
+00:11:22,000 --> 00:11:24,000
+And that's it.
+
+155
+00:11:24,000 --> 00:11:28,000
+ChatGPT will guide you further like a real teacher.
+
+156
+00:11:28,000 --> 00:11:30,000
+It's just magic, I think.
+
+157
+00:11:30,000 --> 00:11:32,000
+And regarding these prompts.
+
+158
+00:11:32,000 --> 00:11:36,000
+They are written under a general learning system.
+
+159
+00:11:36,000 --> 00:11:44,000
+If you need a specific topic or to specifically consider a grammatical structure and so on, you can, of course, adjust it.
+
+160
+00:11:44,000 --> 00:11:46,000
+So adapt.
+
+161
+00:11:46,000 --> 00:11:48,000
+ChatGPT is not a tutor.
+
+162
+00:11:48,000 --> 00:11:56,000
+But with a well-built system, you can create a truly working simulator out of it.
+
+163
+00:11:56,000 --> 00:12:06,000
+Therefore, the main thing here is to create this specific system so that it is not chaotic but broken down as we did today.
+
+164
+00:12:06,000 --> 00:12:08,000
+Because that's how our brain learns thoroughly.
+
+165
+00:12:08,000 --> 00:12:14,000
+So, if you found it useful, interesting, and liked it, I would be very grateful for your support.
+
+166
+00:12:14,000 --> 00:12:18,000
+Like, comment, subscribe.
+
+167
+00:12:18,000 --> 00:12:32,000
+And I want to remind you that under this video and in the pinned comment, you will find a link to my Telegram channel, where all the prompts for each level will be collected.
+
+168
+00:12:32,000 --> 00:12:34,000
+Bye!
+

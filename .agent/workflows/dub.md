@@ -14,15 +14,17 @@ description: Disciplined step-by-step DaVinci Resolve dubbing automation
    `python3 init_project.py`
 2. **Import Video**: Import the target video and create the Main Timeline.
    `python3 import_video.py <video_path>`
-3. **Transcribe**: Generate a JSON file with sentence-level timestamps.
+3. **Transcribe**: Generate an SRT file with sentence-level timestamps using WhisperX Python API.
    `python3 transcribe_video.py <video_path>`
-4. **Agent Correction**: (PAUSE) Ask the AI agent (me) to fix transcription errors using contextual AI logic.
-   `python3 correct_transcription.py <base>.json <base>_fixed.json`
-5. **Agent Translation**: (PAUSE) Ask the AI agent (me) to translate the fixed transcription into English.
-   `python3 translate_transcription.py <base>_fixed.json <base>_en.json`
-6. **Synthesize**: Generate audio files for each translated segment using Kokoro TTS.
-   `python3 synthesize_audio.py <base>_en.json`
-7. **Assemble**: Place the generated audio segments onto Track 2 of the DaVinci Resolve timeline.
+4. **Group Sentences**: Group transcribed segments into full sentences.
+   `python3 group.py`
+5. **Gemini Correction**: Fix transcription errors using Gemini API.
+   `python3 correct_gemini_srt.py <base>_grouped.srt <base>_corrected.srt`
+6. **Gemini Translation**: Translate the corrected SRT to English using Gemini API.
+   `python3 translate_srt_gemini.py <base>_corrected.srt <base>_en.srt`
+7. **Synthesize**: Generate audio files for each translated segment using Kokoro TTS.
+   `python3 synthesize_audio.py <base>_en.srt`
+8. **Assemble**: Place the generated audio segments onto Track 2 of the DaVinci Resolve timeline.
    `python3 assemble_timeline.py <video_name> <base>_en_audio.json`
 
 ### Крок 7: Збірка таймлінії

@@ -1,76 +1,27 @@
-import whisper
-import json
+import whisperx
+import gc
 import os
 import sys
-import subprocess
 
+def format_timestamp(seconds: float) -> str:
+    """Convert float seconds to SRT timestamp format (HH:MM:SS,mmm)."""
+    h = int(seconds // 3600)
+    m = int((seconds % 3600) // 60)
+    s = int(seconds % 60)
+    ms = int(round((seconds - int(seconds)) * 1000))
+    return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
 
-def extract_audio(video_path):
-    """Extract audio to WAV for stable transcription."""
-    audio_path = "temp_audio.wav"
-    print(f"Extracting audio to {audio_path}...")
-    try:
-        command = [
-            "ffmpeg", "-y", "-i", video_path,
-            "-ar", "16000", "-ac", "1", "-c:a", "pcm_s16le",
-            audio_path
-        ]
-        subprocess.run(command, check=True, capture_output=True)
-        return audio_path
-    except Exception as e:
-        print(f"Error extracting audio: {e}")
-        return None
-
-
-def merge_segments_into_sentences(segments):
-    """
-    Merge Whisper's native segments into full sentences.
-    
-    Key: uses segment['text'] (always complete, never loses words)
-    instead of reconstructing from words[].
-    Sentence boundary = text ends with . ! or ?
-    """
-    sentences = []
-    buffer_text = ""
-    buffer_words = []
-    start_time = None
-
-    for seg in segments:
-        text = seg.get("text", "").strip()
-        if not text:
-            continue
-
-        if start_time is None:
-            start_time = seg["start"]
-
-        buffer_text += (" " if buffer_text else "") + text
-        buffer_words.extend(seg.get("words", []))
-
-        # Check if this segment ends a sentence
-        if text[-1] in ".!?":
-            sentences.append({
-                "id": len(sentences),
-                "start": start_time,
-                "end": seg["end"],
-                "text": buffer_text,
-                "words": buffer_words,
-            })
-            buffer_text = ""
-            buffer_words = []
-            start_time = None
-
-    # Leftover text (no final punctuation)
-    if buffer_text:
-        sentences.append({
-            "id": len(sentences),
-            "start": start_time,
-            "end": segments[-1]["end"],
-            "text": buffer_text,
-            "words": buffer_words,
-        })
-
-    return sentences
-
+def write_srt(segments: list, output_path: str):
+    """Write whisperx segments to an SRT file."""
+    with open(output_path, "w", encoding="utf-8") as f:
+        for idx, segment in enumerate(segments, start=1):
+            start_str = format_timestamp(segment["start"])
+            end_str = format_timestamp(segment["end"])
+            text = segment["text"].strip()
+            
+            f.write(f"{idx}\n")
+            f.write(f"{start_str} --> {end_str}\n")
+            f.write(f"{text}\n\n")
 
 def main():
     if len(sys.argv) < 2:
@@ -79,58 +30,43 @@ def main():
 
     video_path = sys.argv[1]
     base_name = os.path.splitext(os.path.basename(video_path))[0]
-    output_path = f"{base_name}.json"
+    output_path = f"{base_name}.srt"
 
     if not os.path.exists(video_path):
         print(f"Error: Video file '{video_path}' not found.")
         sys.exit(1)
 
-    # 1. Extract audio
-    audio_path = extract_audio(video_path)
-    if not audio_path:
-        sys.exit(1)
+    device = "cpu"
+    compute_type = "float32"
+    batch_size = 16 # Reduce if OOM
 
-    # 2. Load model
-    print("Loading Whisper 'medium' model...")
-    model = whisper.load_model("medium")
+    print(f"Loading WhisperX 'medium' model on {device}...")
+    model = whisperx.load_model("medium", device, compute_type=compute_type, language="uk")
 
-    # 3. Transcribe
-    print(f"Transcribing '{audio_path}'...")
-    result = model.transcribe(
-        audio_path,
-        verbose=False,
-        word_timestamps=True,
-        language="uk",
-        beam_size=5,
-        best_of=5,
-    )
+    print(f"Loading audio from '{video_path}'...")
+    audio = whisperx.load_audio(video_path)
 
-    raw_segments = result.get("segments", [])
-    print(f"Whisper returned {len(raw_segments)} raw segments.")
+    print("Transcribing...")
+    result = model.transcribe(audio, batch_size=batch_size)
+    print("Base transcription complete.")
 
-    # 4. Merge into sentences (text from segment['text'], NOT from words[])
-    sentences = merge_segments_into_sentences(raw_segments)
-    print(f"Merged into {len(sentences)} sentences.")
-
-    # 5. Save
-    output = {
-        "text": result.get("text", ""),
-        "language": result.get("language", ""),
-        "segments": sentences,
-    }
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    print("Aligning timestamps...")
+    model_a, metadata = whisperx.load_align_model(language_code=result["language"], device=device)
+    result = whisperx.align(result["segments"], model_a, metadata, audio, device, return_char_alignments=False)
+    
+    # Save as SRT
+    print(f"Saving format as SRT to '{output_path}'...")
+    write_srt(result["segments"], output_path)
 
     # Print sentences
-    for s in sentences:
-        print(f"[{s['id']:3d}] [{s['start']:7.2f} - {s['end']:7.2f}] {s['text']}")
+    for idx, s in enumerate(result["segments"], start=1):
+        print(f"[{idx:3d}] [{s['start']:7.2f} - {s['end']:7.2f}] {s['text'].strip()}")
 
-    print(f"\nSaved to '{output_path}'")
-
-    # Cleanup
-    if os.path.exists(audio_path):
-        os.remove(audio_path)
-
+    print(f"\nSaved natively to '{output_path}'")
+    
+    # Clean up memory
+    gc.collect()
 
 if __name__ == "__main__":
     main()
+
